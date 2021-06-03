@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Cimmerian matron to which is added The mysteries and miracles of love / by P.M. gent.</title>
+            <author>Charleton, Walter, 1619-1707.</author>
+         </titleStmt>
+         <extent>Approx. 127KB of XML-encoded text transcribed from 55 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20159</idno><idno type="EEBO-CITATION">10861319</idno>
+  <idno type="VID">204815</idno>
+  <idno type="EEBO-PROQUEST">2248499495</idno>
+  
+            <idno type="STC">Wing C3667</idno>
+            <idno type="OCLC">10861319</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20159)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204815)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1419:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Cimmerian matron to which is added The mysteries and miracles of love / by P.M. gent.</title>
+                  <author>Charleton, Walter, 1619-1707.</author>
+                  <author>Charleton, Walter, 1619-1707. Mysteries and miracles of love.</author>
+               </titleStmt>
+               <extent>[23], 77 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Herringman,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204815:1"/>
+            <pb facs="tcp:204815:1"/>
+            <p>THE Cimmerian MATRON, To which is added, THE <hi>Mysteries</hi> and <hi>Miracles</hi> OF LOVE.</p>
+            <p>By <hi>P. M.</hi> Gent.</p>
+            <q>
+               <l>Qui cavet, ne decipiatur; vix cavet, etiam cum cavet:</l>
+               <l>Etiam cum cavisse ratus est, is cautor captus est.</l>
+               <bibl>
+                  <hi>Plautus.</hi>
+               </bibl>
+            </q>
+            <p>In the <hi>SAVOY:</hi> Printed for <hi>Henry Herringman</hi> at the Sign of the <hi>Anchor</hi> in the Lower-walk of the <hi>New-Exchange.</hi> 1668.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:204815:2"/>
+            <pb facs="tcp:204815:2"/>
+            <head>TO THE AUTHOR OF THE <hi>Ephesian Matron.</hi>
+            </head>
+            <opener>
+               <salute>My dearest Friend,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou can be, I perceive, both highly <hi>obliging,</hi> and no less <hi>severe</hi> to one and the same <hi>Per<g ref="char:EOLhyphen"/>son,</hi> in one and the same <hi>act.</hi> When you were pleas'd last Summer, to send me your <hi>EPHESIAN MATRON,</hi> with strict Command, that I should entertain her, as jealous <hi>Italians</hi> do their Mistresses, mew her up in my Cabinet, from sight of the whole world: You sent a <hi>Present</hi>
+               <pb facs="tcp:204815:3"/> (I acknowledge) than which nothing could have been more gratefull; but you conjoyn'd therewith a <hi>Restriction,</hi> than which none could have been more rigo<g ref="char:EOLhyphen"/>rous. You gave me good Wine, and then gelt it with Water; as the <hi>Spanish</hi> say<g ref="char:EOLhyphen"/>ing is of such, <hi>who destroy their own benefits.</hi> Like an imperious Lord, you would have had the Lady my Tenent at your will: and after you had made me a free Grant, you inserted a <hi>Proviso</hi> to ren<g ref="char:EOLhyphen"/>der it void. In a word, your Injunction to me, to restrain her from the conversa<g ref="char:EOLhyphen"/>tion of all others, was not only tyrannical and inhumane in it self (for, as our great Moralist, and beloved Author, <hi>Chaucer,</hi> in the Wife of <hi>Bath's</hi> Prologue.</p>
+            <q>
+               <l>He is to great a Niggarde, that will werne</l>
+               <l>A man, to light a candle at his Lanterne;)</l>
+            </q>
+            <p>but also inconsistent with both the good<g ref="char:EOLhyphen"/>ness of her nature, and the freedome of my enjoying the pleasures thereof. For,</p>
+            <p>First, the love of <hi>Liberty</hi> is no less natural to the soft and delicate Sex, than
+<pb facs="tcp:204815:3"/> to our harder and martial one: nor doth our <hi>Magna Charta</hi> contain more Privi<g ref="char:EOLhyphen"/>ledges and Franchises, than theirs. Nay, their Beauty, as being the Ofspring of <hi>light</hi> (for <hi>Plato</hi> defined it to be the <hi>luster</hi> of the Soul resplendent in the bodie) justi<g ref="char:EOLhyphen"/>fies their abhorrence of confinement. Hence no Law-givers have ever been so unrea<g ref="char:EOLhyphen"/>sonable, so unhumane, as to abridg Wo<g ref="char:EOLhyphen"/>men of their native priviledge of a free and open conversation with Men. And we should live but uncomfortably at best, if we denied them, especially while they are young, handsom, and well dress'd, to shew themselves abroad in company, and appear in frequent assemblies. Besides, as the same Wife of <hi>Bathe</hi> speaks in the name of her whole sex,
+<q>
+                  <l>We love no man, that taketh keepe or charge</l>
+                  <l>Where that we go; we woll be at our large.</l>
+               </q> Nor is it less difficult to put restraint up<g ref="char:EOLhyphen"/>on a Lady of her sprightly and debonaire humor, than to imprison the Sun-beams, catch the winds in a net, or impound an
+<pb facs="tcp:204815:4"/> Eagle (as the Aldermen of <hi>Gotham</hi> did a Cuckow) within a hedge: and he who is so well conceited of his vigilancy, or pow<g ref="char:EOLhyphen"/>er, as to attempt it; is capable of being perswaded also, that he can make Glass malleable, square the Circle, prevent the decay of beauty by Time, or repair it by the oyl of <hi>Talk.</hi> Novelty is a Loadstone to us all, especially to Women, who na<g ref="char:EOLhyphen"/>turally are so much given to <hi>Curiosity,</hi> that some <hi>Divines</hi> have held, our Great Grandmother <hi>Eve</hi> had never longed for the forbidden fruit, had it not been <hi>for<g ref="char:EOLhyphen"/>bidden.</hi> Hence that Proverb, <hi>where Jealousie is Jaylor, most break prison,</hi> which was litterally verified in the Wife of the Goaler, in <hi>Aristenatus;</hi> who though strictly watch'd and lock'd up by the jealous Coxcomb her Husband, yet found an opportunity to be <hi>loose,</hi> while she was in strong hold.</p>
+            <q>
+               <l>Quisquis vectibus &amp; seris</l>
+               <l>Custodit uxorem, cum sibi sapiens videatur</l>
+               <l>Stultus est.</l>
+            </q>
+            <pb facs="tcp:204815:4"/>
+            <p>Again, you were not ignorant, that I am of so <hi>Charitable</hi> and Communicative a <hi>Genius,</hi> that I hate to eat my morsels alone, though they be never so sweet and delicious. One of my Maxims is, <hi>quo communius, eo suavius;</hi> the more de<g ref="char:EOLhyphen"/>lectable I find any thing to my self, the more desirous I am to impart the same to my Friends and Acquaintance: it being not the least of my pleasures, to accom<g ref="char:EOLhyphen"/>modate and please others.</p>
+            <p>Knowing, therefore, on one part, that the <hi>Ephesian</hi> was amiable, tempting and witty; and on the other, that I am no Monopolizer of such Commodities, but of a publick spirit and free-hearted: You ought either not to have put her into my hands, or not to have expected I should restrain her from shewing her self to the world. Nor am I to be so much bla<g ref="char:EOLhyphen"/>med, for permitting her to go to <hi>London,</hi> and appear openly in the <hi>New Ex<g ref="char:EOLhyphen"/>change:</hi> as you are for imagining, that so fair and polite a Creature deserved
+<pb facs="tcp:204815:5"/> such harsh usage, as to be alwayes con<g ref="char:EOLhyphen"/>fined with me in an obscure Country Village among Fanatick Weavers and Cloth-workers.</p>
+            <p>But, <hi>you'll</hi> say (I presume) as poor <hi>Malbecco</hi> said in excuse of his jealousie; that you grounded your command of Se<g ref="char:EOLhyphen"/>cresie, not upon distrust of the <hi>Matrons</hi> virtue, but upon fear of having your <hi>judgment</hi> and <hi>honour</hi> brought into question, if the censorious World should once come to know, who it was, that brought her from <hi>Rome,</hi> and furnished her with so handsome an <hi>English</hi> dress. And this seems a good Caution; but was it a prudent one? What cause had you for it? More than one. Well then, I guess at your thoughts. You feard, lest some men might be of so severe a brow, as to think you had forgotten the <hi>Gra<g ref="char:EOLhyphen"/>vity</hi> required in a <hi>Philosopher,</hi> and one of your ripe years, while you in<g ref="char:EOLhyphen"/>dulged your Pen, the liberty of touching
+<pb facs="tcp:204815:5"/> upon an <hi>Amorous</hi> Argument, though without violation of Modesty, and only for divertisement. You feard, lest others, less acquainted with Books, might mistake the History for a <hi>Ficti<g ref="char:EOLhyphen"/>on;</hi> and you for the <hi>Author:</hi> and thereupon take occasion to discredit both. You feard again, lest others might per<g ref="char:EOLhyphen"/>vert the sense of your Text by a false <hi>Comment,</hi> interpret what you inten<g ref="char:EOLhyphen"/>ded only for an innocent and facete <hi>Exercise</hi> of your <hi>Wit,</hi> to be a designe of Malice, a studied <hi>Satyr</hi> against <hi>Wo<g ref="char:EOLhyphen"/>men.</hi> These are all the Reasons I can imagine you could alleage against my ex<g ref="char:EOLhyphen"/>posing to publick view that good-natur'd <hi>Stranger.</hi>
+            </p>
+            <p>To let you see, then, how much you were deceived in the weight of these <hi>Objections,</hi> suggested to you by your fear of Detraction and Scandal; and withall briefly to Apologize for my own transgression, of your Command,
+<pb facs="tcp:204815:6"/> in transmitting the <hi>Ephesian</hi> to the <hi>Press</hi> (for, that I own to my act:) I find my self obliged to perpend them one by one in the ballance of Equity.</p>
+            <p>In the <hi>First</hi> place, you had no reason to think <hi>Love</hi> to be so <hi>juvenile</hi> and sooty an Argument, that you could not handle it without contracting stains upon your <hi>Reputation.</hi> For, that <hi>Erotic passion</hi> is allowed by all learned men to be a <hi>spe<g ref="char:EOLhyphen"/>cies</hi> of <hi>Melancholy,</hi> and in that name your very <hi>Profession</hi> gave you a just title to inquire into the origine, nature, causes, signes, symptomes, &amp;c. thereof. Again, you have the authority of no less man than <hi>Marsilius Ficinus (in praefat. ad Convivium Platonis) omnem Amo<g ref="char:EOLhyphen"/>rem honestum esse, &amp; bonum, omnes<g ref="char:EOLhyphen"/>que amore dignos, qui bene dicunt de amore;</hi> that all Love is honest and good, and all those worthy to be loved, who speak well of it. Nor need you seek long for <hi>Presidents</hi> in the case. Among <hi>An<g ref="char:EOLhyphen"/>tient Philosophers,</hi> you have <hi>Plato</hi>
+               <pb facs="tcp:204815:6"/> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>Xenophon (sym<g ref="char:EOLhyphen"/>pos.) Theophrastus</hi> (if we may believe <hi>Athenaeus, lib. 13. cap. 9.) Plutarch, Plotinus, Maximus Tyrius, Cadmus Milesius</hi> (who, as <hi>Langius,</hi> in <hi>lib. 1. Epist. 24.</hi> observes out of <hi>Suidas,</hi> wrote no less than <hi>14.</hi> Books of Love) and <hi>A<g ref="char:EOLhyphen"/>vicenna.</hi> Among the <hi>Moderns, Picus Mirandula, Marius Aequicola,</hi> both in Italian; <hi>Kornmannus de linea Amoris lib. 3. Petrus Godefridus,</hi> in as many; and <hi>P. Haedus.</hi> Of <hi>Physicians,</hi> you have <hi>Arnoldus de villa nova, Valleriola, Aelian Montaltus,</hi> in their Treatises of Melancholy; <hi>Valescus de Taranta, Gor<g ref="char:EOLhyphen"/>donius, Hercules de Saxonia, Savanaro<g ref="char:EOLhyphen"/>la, Langius, Sennertus, Tulpius:</hi> some of whom have written express Tractates of the nature and extent of <hi>Love-melan<g ref="char:EOLhyphen"/>cholly;</hi> and others rare observations of the strange and prodigious <hi>Effects</hi> of the same. Yea, of <hi>Divines</hi> themselves you have Examples not a few; of which I shall put you in mind only of two, as most
+<pb facs="tcp:204815:7"/> memorable. One is that of <hi>Heliodorus,</hi> a reverend Bishop, who penned the famous Love-story of <hi>Theagines</hi> and <hi>Chariclea:</hi> and when some sowr <hi>Cato's</hi> of that time reprehended him for it, chose rather (saith <hi>Nicephorus, Histor. lib. 12. cap. 34.</hi>) to leave his Bishoprick, than disa<g ref="char:EOLhyphen"/>vow his Book. The other is of <hi>Aeneas Silvius,</hi> an ancient Theologue; who after the <hi>40.</hi> year of his age, as himself confesseth <hi>(in praefat. lib. 1.)</hi> composed that wan<g ref="char:EOLhyphen"/>ton Roman of <hi>Euryalus and Lucrecia.</hi> To these I could have added other two eminent Divines of our own time and Nation, <hi>Mr Burton,</hi> who wrote copious<g ref="char:EOLhyphen"/>ly and learnedly of <hi>Love-melancholy;</hi> and <hi>Dr. Tailer,</hi> who thought it no dimi<g ref="char:EOLhyphen"/>nution of his Gravity, to recount (if <hi>I</hi> remember well, in his Art of <hi>living and dying virtuously</hi>) the very same story of the <hi>Ephesian Matron,</hi> as an instance of Human Frailty. Nay, I might alleage the Loves of <hi>Jacob</hi> and <hi>Rachel,</hi> of <hi>Sichem</hi> and <hi>Dinah, Juda</hi> and <hi>Thamar, Samp<g ref="char:EOLhyphen"/>son</hi>
+               <pb facs="tcp:204815:7"/> and <hi>Dalilah, David</hi> and <hi>Bersheba, Ammon</hi> and his <hi>Sister, Salomon</hi> and <hi>Pharaoh</hi>'s Daughter, &amp;c. all mentioned in <hi>Sacred Writ.</hi> But I have been al<g ref="char:EOLhyphen"/>ready too prolix in an Argument so com<g ref="char:EOLhyphen"/>mon and obvious. To conclude this first part, therefore, of your Justification; if it were no dishonour to these grave Au<g ref="char:EOLhyphen"/>thors to have treated of Love; why should you, a Natural Philosopher, and yet no old man, apprehend it so dangerous a thing to your good name, to let the world know, you had bestowed a few va<g ref="char:EOLhyphen"/>cant hours, for your divertisement, upon the same Subject? Had you been at that time twice as old as you are now, I, for my part, should have liked your Chara<g ref="char:EOLhyphen"/>cters of Love so much the better: be<g ref="char:EOLhyphen"/>cause (as the Lord <hi>John</hi> answered the <hi>Queen</hi> in that Italian <hi>Guazzo, lib. 4. de civili conversatione</hi>) a grave and discreet Person is fittest to discourse of Amorous adventures, as having more experience, and more staid judgment,
+<pb facs="tcp:204815:8"/> to make wholesome and usefull Re<g ref="char:EOLhyphen"/>marques thereupon, for the advice and caution of greener heads.</p>
+            <p>As for your <hi>Second</hi> imaginary <hi>Obje<g ref="char:EOLhyphen"/>ction,</hi> viz. that the <hi>Ephesian</hi> might be thought the <hi>Minerva</hi> of your Brain, your <hi>natural</hi> Daughter, when indeed she was only your <hi>adopted</hi> one: certainly, my <hi>dear Friend,</hi> you had laid aside your considering-cap, when you sufferd so light a conceipt to make any the least impres<g ref="char:EOLhyphen"/>sion upon your skull. For, every Scholar very well knows, that the Lady being the Daughter of <hi>Petronius Arbiter,</hi> in his <hi>Satyricon,</hi> cannot therefore be less then sixteen hundred years elder than you. Whether she was a <hi>True,</hi> or a <hi>Roman<g ref="char:EOLhyphen"/>tique</hi> one; the <hi>Author</hi> having kept that in his breast, I am not able, after so long an interval of time, to determine. But thus much I can assure those, who doubt of her <hi>Reality;</hi> that <hi>Flavianus, apud Salisberiensem,</hi> affirms that the Sto<g ref="char:EOLhyphen"/>ry is a true one, and that the Woman
+<pb facs="tcp:204815:8"/> suffer'd death for her parricidal wiched<g ref="char:EOLhyphen"/>ness and adultery, as he (in my judgment too severely) stiles her fault. This <hi>Paren<g ref="char:EOLhyphen"/>thesis</hi> begets a <hi>Digression.</hi>
+            </p>
+            <p>I say, too <hi>severely;</hi> because her Hus<g ref="char:EOLhyphen"/>band being newly dead of some violent sickness, and she then a Widow, when she so graciously obliged the Souldier: where was either her <hi>Parricide,</hi> or her <hi>Adultery?</hi> I should think, that either the <hi>Ephesian</hi> Laws against removing the dead out of their Sepulchres, were inhumanely strict; if her Judges were thereby obliged to ac<g ref="char:EOLhyphen"/>count that fact in her equivalent to Par<g ref="char:EOLhyphen"/>ricide: or that <hi>Flavianus</hi> had been mis<g ref="char:EOLhyphen"/>informed in that part of the Story. For, as to the other part of her Charge, her so facil and suddain giving her self up to the Souldiers embraces; had the Laws of the place made it capital (which I be<g ref="char:EOLhyphen"/>lieve they did not, because I never read of any Laws so extremely rigorous, in any of the Cities of <hi>Greece</hi>) yet she had wit enough to evade them, by pretending
+<pb facs="tcp:204815:9"/>
+               <hi>Marriage</hi> to her new Lover. Here I have an opportunity to observe to you, that though that excellent Divine, new<g ref="char:EOLhyphen"/>ly quoted, <hi>Dr. Tayler,</hi> was pleased so to sweeten and extenuate the Levity of the Woman, as to tell his Readers, that she <hi>married</hi> the Souldier in the Vault, yet I cannot assent to him in that particular. The words of <hi>Petronius,</hi> indeed, are these; <hi>Jacuerunt,</hi> (or, as the best <hi>Cri<g ref="char:EOLhyphen"/>tiques</hi> read, <hi>latuerunt) una, non tan<g ref="char:EOLhyphen"/>tum illa nocte, qua nuptias fecerunt, sed postero etiam ac tertio die, &amp;c.</hi> But all who are conversant in the Latin tongue, well understand, that <hi>nubere</hi> &amp; <hi>nuptias facere,</hi> is by a modest <hi>Meta<g ref="char:EOLhyphen"/>lepsis</hi> used, by the ancient Romans, <hi>pro</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; as <hi>Plautus</hi> used it, <hi>Pseud. act. 1. scen. 3.</hi> and as <hi>Voscius</hi> (in <hi>Etymo<g ref="char:EOLhyphen"/>logic.</hi>) judiciously holds <hi>Petronius</hi> to have used it in this place. Which I occasionally touched upon, not as a de<g ref="char:EOLhyphen"/>fect of Judgment, but an excess of Cha<g ref="char:EOLhyphen"/>rity in that learned and pious Divine;
+<pb facs="tcp:204815:9"/> who was willing to honest the poor wo<g ref="char:EOLhyphen"/>mans lapse, by an interpretation to her most favorable, and to her Sex least of<g ref="char:EOLhyphen"/>fensive.</p>
+            <p>To return to my tracing of the Story it self. <hi>Jan. Dousa,</hi> in his Notes upon this Chapter of <hi>Petronius,</hi> tells us, that the very same Novel was put into elegant Latin verse by one <hi>Romulus,</hi> an antique <hi>Grammarian;</hi> that long after that it was copiously written in the <hi>German</hi> language, and thence translated again into Latin, by <hi>Fr. Modius,</hi> a Civilian, who changed the persons, new-molded the Story, and publish'd it under this Title: <hi>Ludus septem sapientum de Astrei, re<g ref="char:EOLhyphen"/>gii adolescentis, educatione, periculis, &amp;c.</hi> and that about the year of Christ <hi>M.CC.</hi> it was rendred in French Rithm by <hi>Hebertus,</hi> a Clerk. To these I could have added others also, through whose hands our Matron passed, had I not wan<g ref="char:EOLhyphen"/>ted the latest Edition of <hi>Petronius</hi> by <hi>Gabbema,</hi> who has been diligent in
+<pb facs="tcp:204815:10"/> deriving her pedigree; and to whom I am compelled to refer you. Mean while it is well known even to the vulgar of our Nation, that she hath found a place in the Book of the <hi>Seven Wise Masters;</hi> and is the chief Person in the Comedy called the <hi>Widdows Tears.</hi> Now it be<g ref="char:EOLhyphen"/>ing thus credible, that the <hi>Ephesian</hi> was no <hi>Roman,</hi> no Fairy or Child of Fancy, but a very <hi>Woman</hi> of flesh and blood, and notoriously manifest, that she hath been Favorite to many learned and grave Men, who have handed her down (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) from Nation to Nati<g ref="char:EOLhyphen"/>on, from age to age, keeping the torch of her beauty unextinct, and giving her a perpetual Youth by the <hi>Nepenthe</hi> of their immortal Penns: whoever shall take her for <hi>Your</hi> Daughter (I do not say <hi>Mi<g ref="char:EOLhyphen"/>stress</hi>) will discover ignorance enough to render him the subject of scorn and dirision; nor will he more easily find be<g ref="char:EOLhyphen"/>lief among the sober and judicious, than if he should report you to be the <hi>Souldier,</hi>
+               <pb facs="tcp:204815:10"/> who cured her of her <hi>Grief,</hi> by easing himself of his <hi>Love.</hi>
+            </p>
+            <p>As for the <hi>Last</hi> Objection, <hi>your fear to fall into the displeasure of the La<g ref="char:EOLhyphen"/>dies,</hi> who being naturally jealous of the honour of their sex, possibly might su<g ref="char:EOLhyphen"/>spect the Book to be at best but a well-dis<g ref="char:EOLhyphen"/>guis'd <hi>Satyr</hi> against <hi>them:</hi> I conceive that to be already sufficiently prevented, partly by what you have, in many places of the Book it self, said in ho<g ref="char:EOLhyphen"/>nour of their Virtues; partly by my precedent solutions of your two for<g ref="char:EOLhyphen"/>mer Objections. For, since I have made it apparent, that you are not the first Philosopher who hath exerci<g ref="char:EOLhyphen"/>sed his wit and pen in consideration of their admirable power of <hi>Love,</hi> nor Author of Story of that Amorous Ad<g ref="char:EOLhyphen"/>venture of the <hi>Ephesian,</hi> which <hi>Ladies</hi> are most likely to condemn: I see no rea<g ref="char:EOLhyphen"/>son, why any Woman should take offence, for that you have in chast and unblame<g ref="char:EOLhyphen"/>able language illustrated the <hi>nature</hi> of
+<pb facs="tcp:204815:11"/> the <hi>Former,</hi> by observing the wonder<g ref="char:EOLhyphen"/>ful <hi>Accidents</hi> of the <hi>Later.</hi> All cau<g ref="char:EOLhyphen"/>ses are best known by their effects: and in all Arguments, simple <hi>Discourses,</hi> without <hi>Examples,</hi> are flat and unper<g ref="char:EOLhyphen"/>suasive. To me, therefore, it seems ra<g ref="char:EOLhyphen"/>ther a virtue, than a fault in you, that having designed to examine the forces of that Ʋniversal Tyrann, <hi>Love;</hi> You made choice of a short and memorable Story, in which the same were clearly <hi>Exemplified.</hi> Besides this, I can al<g ref="char:EOLhyphen"/>leage in your defence, what the learned <hi>Mycillus,</hi> being reprehended for trans<g ref="char:EOLhyphen"/>lating some of the profaner <hi>Dialogues</hi> of <hi>Lucian,</hi> pleaded in his own; <hi>Operi suscepto serviendum fuit,</hi> you were obli<g ref="char:EOLhyphen"/>ged to comply with your Province, and to prosecute the work you had taken in hand.</p>
+            <p>If it be farther urged, that <hi>you bring in the Souldier most bitterly railing upon, and blaspheming the whole Sex,</hi> I an<g ref="char:EOLhyphen"/>swer, that you could not with decency a<g ref="char:EOLhyphen"/>void it. Because you were bound in your
+<pb facs="tcp:204815:11"/> Narration to introduce him in that distem<g ref="char:EOLhyphen"/>per of Passion, into which his misfortune and danger had transported him. Other<g ref="char:EOLhyphen"/>wise you could not conserve the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as <hi>Aristotle</hi> properly calls it) the <hi>De<g ref="char:EOLhyphen"/>corum</hi> of either his Person, or his passion, or the Occasion of it. For, he is delivered to have been no accomplish'd and polite <hi>Courtier,</hi> nor unpassionate <hi>Stoic,</hi> but a blunt and <hi>Choleric</hi> Fellow, a <hi>Common Souldier:</hi> and being inraged at the steal<g ref="char:EOLhyphen"/>ing away of the Malefactors Carcass from the Gibbet, and reflecting upon the obli<g ref="char:EOLhyphen"/>ging Lady (who, as you well observe, de<g ref="char:EOLhyphen"/>served more respect and gratitude at his hands) as the chief cause of his negli<g ref="char:EOLhyphen"/>gence: it is highly probable, that he brake forth into dire imprecations &amp; reproach<g ref="char:EOLhyphen"/>es, such perhaps as those, in which you imagine him to have vented his furious resentments. In <hi>Poets,</hi> all acknowledg it an <hi>Excellency;</hi> to accommodate every person whom they introduce, with language and action agreable to his Character &amp; Passion:
+<pb facs="tcp:204815:12"/> why then should the same be a <hi>Vice</hi> in you, where you were obliged to repre<g ref="char:EOLhyphen"/>sent a person almost distracted with a syndrome of Remorse, Fear, Anger and Despair; the least of which was violent enough to make him forget his late obligations to his Mistress, and the ci<g ref="char:EOLhyphen"/>vility due to her Sex? So that it may with more justice be said, that the Soul<g ref="char:EOLhyphen"/>dier put that invective <hi>Harangue</hi> into your Pen; than it can, that you put it into his mouth. In fine, I dare be so far your <hi>Compurgator</hi> in the case, as to swear, that it went against your very soul to be necessitated, by the condition of your Theme, to say any thing that tended to the disparagement of the beautifull and delicate Sex: and how<g ref="char:EOLhyphen"/>ever you may suffer by the prejudice of some <hi>Ladies,</hi> to whom your Person and Conversation are unknown; there are others, I am sure, who will vindi<g ref="char:EOLhyphen"/>cate you from the infamy of a <hi>Woman-hater.</hi>
+            </p>
+            <pb facs="tcp:204815:12"/>
+            <p>Now, <hi>my dearest Friend,</hi> if what you have heard me say here, in way of a short Remonstrance of the <hi>Innocency</hi> and <hi>Candor</hi> of your <hi>Ephesian,</hi> be judged by you sufficient to reconcile the Ladies to her, and my self to you, after my offence committed against both, in exposing her to publick censure: truly I shall think my self no less happy in being instrumental to your <hi>vindication,</hi> than I have thought my self unhappy in being so to your <hi>Scandal.</hi> If not, there is no way left for me to expiate my fault, but by in<g ref="char:EOLhyphen"/>volving my self also in the same danger, to which my excess of <hi>good-nature</hi> hath made you obnoxious. Having in sport thrown you into the river, and finding you unable to bear up against the impe<g ref="char:EOLhyphen"/>tuous torrent of <hi>Feminine prejudice,</hi> that is violent enough to overset a Navy: I am resolved to leap in after, and ei<g ref="char:EOLhyphen"/>ther save you from sinking, or perish with you. Well then, to let you see how far I dare to hazard my own fame, to preserve
+<pb facs="tcp:204815:13"/> yours; behold a <hi>Second Matron,</hi> whose Amorous Adventure very neerly resem<g ref="char:EOLhyphen"/>bles that of the kind <hi>Ephesian.</hi> She in like manner falls into an <hi>Intrigue</hi> (as they now adays call it) with a <hi>Souldier,</hi> and at first fight too: and encountring no small difficulty in the pursuit of her love, is witty enough both to surmount that, and conceal her stoln pleasures, by a trick that pass'd for no less than a <hi>Miracle.</hi> Ha<g ref="char:EOLhyphen"/>ving found the <hi>Novel</hi> in the <hi>Comus si<g ref="char:EOLhyphen"/>ve Phagesiposia Cimmeria</hi> of that witty and erudite Noble Italian, <hi>Erycius Pu<g ref="char:EOLhyphen"/>teanus;</hi> and out of his elegant Latin translated into plain English; I now bring it as a <hi>Handmaid</hi> to wait upon the <hi>Ephesian,</hi> at least, if you think it worthy of that honour. And because I would have this <hi>Cimmerian</hi> come as neer to the <hi>Ephesian</hi> in <hi>Habit and Equipage,</hi> as she doth in <hi>Manners</hi> and <hi>Fortune;</hi> I have taken a little pains to dress her, as you did the other, like the Mistress of a <hi>Philosopher.</hi> Finding it very undecent
+<pb facs="tcp:204815:13"/> to interlace the Narration with Philoso<g ref="char:EOLhyphen"/>phical Speculations, as you have done the former; because her adventure ad<g ref="char:EOLhyphen"/>mits no pauses or intervals, wherein the <hi>Reader</hi> ought to be diverted for <hi>Modesty</hi> sake: I have been constrained, therefore, to put all her <hi>Garniture</hi> in one place, at the end, where you will meet with it under the title of <hi>The Mysteries and Miracles of Love.</hi> ¶</p>
+            <trailer>
+               <q>
+                  <l>Here endeth the Squiers Prologue,</l>
+                  <l>and here after followeth his Tale.</l>
+               </q>
+            </trailer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:204815:14"/>
+            <pb n="1" facs="tcp:204815:14"/>
+            <head>THE <hi>CIMMERIAN</hi> MATRON.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N the Confines of <hi>Cim<g ref="char:EOLhyphen"/>meria,</hi> there, not long since lived a certain Gentlewoman, of shape more exact than a Sta<g ref="char:EOLhyphen"/>tue formed by all the rules of <hi>Leon Battista Alberti;</hi> of features and complexion more sweet and deli<g ref="char:EOLhyphen"/>cate then those of <hi>Venus</hi> her self; of re<g ref="char:EOLhyphen"/>putation as clear and immaculate as <hi>Di<g ref="char:EOLhyphen"/>ana.</hi> Wife she was to one, whom Usu<g ref="char:EOLhyphen"/>ry had made Rich, and Riches eminent; with whom she enjoy'd all the plea<g ref="char:EOLhyphen"/>sures of conjugal Love and Fidelity; not so much as dreaming of any con<g ref="char:EOLhyphen"/>tent but in his indulgence and em<g ref="char:EOLhyphen"/>braces.</p>
+            <pb n="2" facs="tcp:204815:15"/>
+            <p>But, ah! how mutable are humane Affections! how many faults doth time discover, which were before concealed! This Woman had but newly acquired the Fame of a chaste and obsequious Wife, when Lust succeeding into the place of honesty, wrought so unhap<g ref="char:EOLhyphen"/>py a change in her, that now she be<g ref="char:EOLhyphen"/>gan to nauseate the wholsome viands of the Marriage bed, and long for strange and forbidden delicates; inso<g ref="char:EOLhyphen"/>much, that her former humour of com<g ref="char:EOLhyphen"/>placency and fondness by degrees de<g ref="char:EOLhyphen"/>generated into a perfect abhorrence of the Person and Company of her most uxorious Husband.</p>
+            <p>For, having by accident cast her eyes upon a young <hi>Soldier,</hi> naked, and bath<g ref="char:EOLhyphen"/>ing himself; Love entred into them to<g ref="char:EOLhyphen"/>gether with the image of the tempting object. <hi>[nudus membra Pyracmon—</hi>
+               <q>
+                  <l>She saw the man, that he was like a Knight,</l>
+                  <l>And suffisaunt of person and of might,</l>
+                  <l>And like to been a very Gentilman;</l>
+                  <l>And well his words he beset can,</l>
+                  <l>And had a noble visage for the nones,</l>
+                  <l>And formed well of brawne and of bones;</l>
+                  <l>And after <hi>Venus</hi> had soche faireness,</l>
+                  <l>That no man might be halfe so faire I gesse:</l>
+                  <l>And well a Lord he feemed for to be.</l>
+                  <l>And for he was a stranger, som what she</l>
+                  <pb n="3" facs="tcp:204815:15"/>
+                  <l>Liked him the bet; as God do bote,</l>
+                  <l>To some folk often new thing is sote,]</l>
+               </q>
+            </p>
+            <p>Yet be not too severe in condemn<g ref="char:EOLhyphen"/>ing the passion of a frail Woman, You, who know how strong and quick assaults <hi>Cupid</hi> often makes upon Forts so weak<g ref="char:EOLhyphen"/>ly man'd, and with what unresistable Artillery he is provided. Her <hi>Husband</hi> observing a change in her, at first ad<g ref="char:EOLhyphen"/>mired what should be the cause of her discontent, and coldness toward him; using in the mean time all imaginable caresses and endearments to sweeten her melancholly, and dispel those gloomy clouds that had overcast her joys. After all his Courtship and Arts of Kind<g ref="char:EOLhyphen"/>ness proving unsuccessful, he grew suspi<g ref="char:EOLhyphen"/>cious (what was indeed too true) that she had removed her Affection from him, and fix'd it upon some other per<g ref="char:EOLhyphen"/>son. For, though she carefully conceal'd from him her flame, and often endea<g ref="char:EOLhyphen"/>vour'd to suppress it, even with showrs of tears, especially when 'twas newly kindled: yet that, like wild-fire, raging the more by opposition, and break<g ref="char:EOLhyphen"/>ing forth in flashes of discontent, she was not able so to hide it, but that he perceived her heart was scorch'd: Her melancholly had quite altered the
+<pb n="4" facs="tcp:204815:16"/> graceful and charming Aire of her face, consumed her spirits, destroyed the Roses in her cheeks, bedimm'd the Iustre of her sparkling eyes, and re<g ref="char:EOLhyphen"/>duced her to a dejected and languish<g ref="char:EOLhyphen"/>ing condition. To these symptoms you may add restless nights, broken discourses, love of solitude, suddain startings, unwilling sighs, and all other signs, by which a wounded heart is forc<g ref="char:EOLhyphen"/>ed to betray it self. No wonder then, if the vigilant <hi>Usurer</hi> soon became con<g ref="char:EOLhyphen"/>firmed in his jealousie; which yet he used as much cunning to obscure from her, as she had to conceal her passion from him. But Love is no less difficult to be resisted, than to be disguised: and now our impatient <hi>Matron</hi> can no longer live without the help of her Gallant.</p>
+            <p>Having therefore some knowledge of a certain wise Woman of the same Town, one of the Grand-daughters of <hi>Pandarus,</hi> such as the <hi>French</hi> call <hi>Messa<g ref="char:EOLhyphen"/>geurs d' Amour,</hi> a <hi>Bawd</hi> of Quality, she addresses to her, and without much dif<g ref="char:EOLhyphen"/>ficulty engages her to go Ambassa<g ref="char:EOLhyphen"/>dress to the Man of Arms, and negoti<g ref="char:EOLhyphen"/>ate with him about a firm League of Love, and a private interview upon the first fair opportunity. In this Treaty,
+<pb n="5" facs="tcp:204815:16"/> there needed not much of Rhetorick on the part of this <hi>Oratrix,</hi> the Soldier, (who was indeed so handsome and pro<g ref="char:EOLhyphen"/>per a Fellow, that <hi>Diana</hi> her self might without any disparagement to her judgement, have preferred him to <hi>En<g ref="char:EOLhyphen"/>dymion;</hi> and wanted not wit enough to serve himselfe of so advantagious an oc<g ref="char:EOLhyphen"/>casion) accepting and assenting to the conditions proposed with all alacrity and gratitude imaginable. So that now no<g ref="char:EOLhyphen"/>thing was wanting to the mutual ratifi<g ref="char:EOLhyphen"/>cation of the amorous Ligue, but an opportunity for the two <hi>Princes</hi> (for, such their <hi>hopes</hi> had made them) inter<g ref="char:EOLhyphen"/>changeably to <hi>sign</hi> and <hi>Seal,</hi> which the watchfulness of the jealous <hi>Husband</hi> made extreamly difficult: he making it his main business to observe, not only all the motions of her feet, and whither she went at any time, but those also of her eies; so that you would have thought the beatious <hi>Jo</hi> once again committed to the custody of <hi>Argus.</hi>
+            </p>
+            <p>Among a thousand other plots and stratagems his troubled Imagination suggested to him, towards the discove<g ref="char:EOLhyphen"/>ry of what he equally fear'd and desir'd to know, he at last fixes upon this, as most hopeful, to pretend a journey from
+<pb n="6" facs="tcp:204815:17"/> home, and by an unexpected return to surprize his wife; confident, by this artifice, he should at length arrive at the certain knowledge both of the nature and cause of her disease. According to this politick resolution, he prepares for a long journey, and dissembling a sad valediction to his dear <hi>Fidessa</hi> (who, you may believe, as truly counterfeited sorrow as himselfe, and moistned her parting kisses with artificial tears) sets forth early in the morning, in an hour long wish't for on both sides, nor un<g ref="char:EOLhyphen"/>lucky to either.</p>
+            <p>No sooner was the <hi>Husband</hi> gone, than the glad <hi>Wife</hi> thinking that now the propitious time drew near, when her desires should be crown'd with solid pleasures, and her imaginary embraces exchanged for real ones; soon gave Commission to her <hi>Emissary,</hi> who was the very buckle and thong of Venery, instantly to advertise her <hi>Paramore,</hi> that the Festival of Love was come, and that the Husbands departure had open'd the door to their meeting with free<g ref="char:EOLhyphen"/>dom and security. This welcome mes<g ref="char:EOLhyphen"/>sage was as speedily delivered as recei<g ref="char:EOLhyphen"/>ved, and an <hi>Assignation</hi> made, that im<g ref="char:EOLhyphen"/>mediately after the wearied Sun had
+<pb n="7" facs="tcp:204815:17"/> resigned his Empire in the upper He<g ref="char:EOLhyphen"/>misphere to Night, and mortals began to supply his absence with an artifical day of Candle-light; our valiant and well provided Lover should come to the back door of his <hi>Saints</hi> Chappel, by which he should be introduced and con<g ref="char:EOLhyphen"/>ducted into the <hi>Chancel,</hi> and thence to the <hi>Altar,</hi> upon which he was to offer up his Sacrifice and pay his vows; and that done, return to his quarters, with<g ref="char:EOLhyphen"/>out the least suspicion of the Neigh<g ref="char:EOLhyphen"/>bours. In the mean time, lest the In<g ref="char:EOLhyphen"/>cense he brought with him might not be sufficient to maintain the flame of love the whole night, and his zeal cool through too much fervency at first; the provident <hi>Matron</hi> made ready a <hi>Collation</hi> of generous Wines, Conserves, and other restorative <hi>quelques Choses,</hi> to help carry on the work; and set them in order upon a little Table in her bed-chamber. She contrived also her affair so circumspectly, as to send her <hi>Cham<g ref="char:EOLhyphen"/>ber-maid,</hi> who was indeed the Hus<g ref="char:EOLhyphen"/>bands principal spie over her, to the wedding of a Neighbours Daughter, not without reason, presuming that the wenches curiosity to pry into the plea<g ref="char:EOLhyphen"/>sant rites of the Bridal night, and her
+<pb n="8" facs="tcp:204815:18"/> ambition to be most lucky in the su<g ref="char:EOLhyphen"/>perstitious sport of throwing, the Brides stocking, would long enough divert her from her charge at home. And thus far all things went on according to their wishes, nor did any thoughts disquiet the calmer breasts of our pair of Lovers, but such as usually arise from vehement <hi>expectation;</hi> the Soldier dreaming of nothing but Victory, Triumph, and Spoils; and the Lady of high content in having her Fort new man'd, and ma<g ref="char:EOLhyphen"/>king the Assailant her Captive. But, O, the capriciousness of <hi>Fortune!</hi> or rather the vigilance of <hi>Jealousie!</hi>
+            </p>
+            <p>The appointed hour being at length come, the punctual <hi>Soldier</hi> making haste to enter upon his Duty, to guard the fair <hi>Matron</hi> from Spectres and Goblins, in the absence of her Husband; ad<g ref="char:EOLhyphen"/>vanceth to the postern door of her house, as he had been directed, but finding it shut, and hearing no noise within, he made a halt, and very discreet<g ref="char:EOLhyphen"/>ly forbearing to knock, fell to the po<g ref="char:EOLhyphen"/>sture of a diligent <hi>Sentinel,</hi> softly walk<g ref="char:EOLhyphen"/>ing to and fro in the narrow Alley that led to the house from the Street, where while he was exercising his patience, it most unluckily hapned, that the no less
+<pb n="9" facs="tcp:204815:18"/> vigilant and impatient <hi>Husband</hi> (who had conceal'd himself at a Friends in the Neighbourhood) returned by the same Alley, and stealing along as sortly and warily as a Thief to commit Burglary, takes good notice of the night-walker, whom he immediately concluded with<g ref="char:EOLhyphen"/>in himself to be the <hi>Mars,</hi> on whom his <hi>Venus</hi> was so <hi>furiously</hi> ennamour'd; whereupon, entring his house, and lock<g ref="char:EOLhyphen"/>ing the door behind him, with as little noise as a Pick-lock; he finds his wife in a dress of neat and rich night-linnen, like a Bride going to bed, which adding more Fewel to his suspicion, and exas<g ref="char:EOLhyphen"/>perating the sense of his wrong; he puts on the countenance of rage and terror, with enflamed and threatning eyes staring, as <hi>Caesars</hi> Ghost upon <hi>Bru<g ref="char:EOLhyphen"/>tus,</hi> upon h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s poor surprised wife, who stood as still, by reason of her asto<g ref="char:EOLhyphen"/>nishment, as if she had been congealed by lightning, or transformed into a Statue. For <hi>shame upon the unexpected frustration of an evil design, doth usu<g ref="char:EOLhyphen"/>sually produce confusion.</hi> Her soul, con<g ref="char:EOLhyphen"/>scious of infidelity hitherto only in ima<g ref="char:EOLhyphen"/>gination and design, began to presage more evils, than it could have deser<g ref="char:EOLhyphen"/>ved, had her design succeeded into Act;
+<pb n="10" facs="tcp:204815:19"/> the violence of her passion being fa<g ref="char:EOLhyphen"/>vourably considered. But, could she so soon have recollected her disordered spi<g ref="char:EOLhyphen"/>rits, and recovered the use of her tongue; her Husband's fury would have re<g ref="char:EOLhyphen"/>strain'd her, and he yet could only breath revenge, not utter it in words, After a little pause, going into her bed-chamber, he there encounters with fresh causes of suspicion; the dressing-Table by the bed-side richly furnisht with provoking delicates, clean sheets, perfum'd pillows, and above all, his spie, the <hi>Chambermaid,</hi> conjur'd out of the way; confirm'd in his jealousie by these convincing signs, he now medi<g ref="char:EOLhyphen"/>tates upon nothing but Revenge, and how to effect it with the more securi<g ref="char:EOLhyphen"/>ty and apparence of justice. Resolved, therefore, by cruelty to extort a Confes<g ref="char:EOLhyphen"/>sion, and so make her her own accuser; without speaking a word, he strips her to her snow-white skin, and carrying her down into the Porch, there binds her delicate Arms to one of the Pillars: had you been so happy to have beheld her in that deplorable posture, doubt<g ref="char:EOLhyphen"/>less you would have thought you had seen the beautiful <hi>Andromede</hi> a second time chained naked to a Rock, and one,
+<pb n="11" facs="tcp:204815:19"/> though perhaps not quite so chaste as she, yet, if Beauty had its due,
+<q>
+                  <l>She could not merit any bonds, beside</l>
+                  <l>Those, with which Lovers mutualy are tyed;</l>
+               </q> and well worthy another <hi>Perseus</hi> to de<g ref="char:EOLhyphen"/>liver, love and enjoy her. The hard-hearted <hi>Usurer,</hi> fancying to himself some satisfaction in this first Act of the Tra<g ref="char:EOLhyphen"/>gedy he intended; retires to his bed (though likely to have but a melancho<g ref="char:EOLhyphen"/>ly night of it, without his Consort) ho<g ref="char:EOLhyphen"/>ping by sleep to recompose his troubled mind.</p>
+            <p>In the mean time, our <hi>Man of War,</hi> who had promised to himselfe the height of all enjoyments, lay (Soldier like) perdue in the open Air; and when he had, till almost midnight in vain watched his Mistresses door, which still continued as fast shut, as the Temple of <hi>Janus</hi> in time of peace, he returns back to the house of his <hi>She-Officer</hi> the <hi>Bawd,</hi> whom he found halfe naked, and prepared to keep one of <hi>Venus</hi>'s <hi>Vi<g ref="char:EOLhyphen"/>gils</hi> with a <hi>Client</hi> of hers (for her Cli<g ref="char:EOLhyphen"/>ents were often forced to gratifie her, for solliciting their Love-causes, with such Fees) whom at that very hour she
+<pb n="12" facs="tcp:204815:20"/> expected. <hi>Ho, Mother,</hi> says he, <hi>with what tedious hope do I purchase from the Lady the pleasure promised me? I have already consumed a whole hour (longer indeed than a whole winters night) in fruitless expectation; while she, who sought my Love; and made the Assigna<g ref="char:EOLhyphen"/>tion, hath not vouchsafed to open the door. 'Tis very strange, methinks, unless ha<g ref="char:EOLhyphen"/>ving forgot both her self and her appoint<g ref="char:EOLhyphen"/>ment, she hath buried her amour in sleep. Go thy ways, dear Mother, and enquire the cause of my disappointment, and what commands the Lady hath for me; if to readvance, lo, I am ready for the com<g ref="char:EOLhyphen"/>bat; if to retreat, I am as ready to march off with flying Colours, and deferr the en<g ref="char:EOLhyphen"/>counter till another night.</hi> Scarcely were these last words out of his mouth, when the <hi>Bawd,</hi> incited partly by the sense of her honour (for, those of her Trade must be punctual in their assignations) and partly by commiseration of his im<g ref="char:EOLhyphen"/>patience, hastily casting a <hi>Mantle,</hi> (a most useful garment in such cases) over her shoulders, catches the <hi>Soldier</hi> by the hand, and conducts him back to the door; which she opens with a Key given her by the <hi>Matron</hi> some while before, for her private access upon occasion,
+<pb n="13" facs="tcp:204815:20"/> and entreating him to stand close and si<g ref="char:EOLhyphen"/>lent for a few minutes without, she pas<g ref="char:EOLhyphen"/>ses on through the Wood-yard and a little Garden, till she arrived at the walk under the Porch, where groping along, she had almost run her head against the living Statue there bound to a Pillar; which she no sooner discern'd, but sur<g ref="char:EOLhyphen"/>priz'd with horror, as at sight of a Ghost or Apparition, she stood still and gazed with affrighted eyes. The milky white<g ref="char:EOLhyphen"/>ness of the <hi>Matrons</hi> skin to some de<g ref="char:EOLhyphen"/>gree, overcame the darkness of the moonless night; nor would it suffer her to be longer unperceived; so that the <hi>Bawd</hi> soon recovering her self out of her first consternation, boldly approaches to the <hi>Lady;</hi> and, omitting to enquire into the cause of her being in that strange and lamentable condition, de<g ref="char:EOLhyphen"/>livers in few words the <hi>Soldiers</hi> message, even at that time not ungrateful to the receiver; for, the <hi>Lady</hi> finding the chains of Love more intollerable, than those of her barbarous Husband; and endowed with a <hi>Wit</hi> no whit inferior to her Beauty; soon apprehended, that now she had an opportunity to convert this her misfortune into a benefit, and that she ought not to despond, nor de<g ref="char:EOLhyphen"/>spair
+<pb n="14" facs="tcp:204815:21"/> of reaping the delights, which the jealousie of her Husband had hitherto prevented. Thus reanimated with fresh hope, she begins to wheadle the <hi>Engi<g ref="char:EOLhyphen"/>neer of Lust,</hi> and pouring the oyl of good language and endearing expressi<g ref="char:EOLhyphen"/>ons into her ears, <hi>My dearest Mother,</hi> says she, <hi>my good Angel, I can bear this my affliction with patience, be<g ref="char:EOLhyphen"/>coming the undaunted resolution of a Lo<g ref="char:EOLhyphen"/>ver; yea more, I can change it into a complete Felicity, if you will but vouch<g ref="char:EOLhyphen"/>safe me your assistance; I know no way to revenge my Husbands cruelty, but to deserve it by acting what he so much fears. Help me their to meet and embrace my Lo<g ref="char:EOLhyphen"/>ver, that he who hath so kindly entertain'd my invitation, so justly observed our ap<g ref="char:EOLhyphen"/>pointment, may neither accuse me of breach of faith, nor want the reward due to his Fidelity. Let your courteous hands untie the knots that hamper mine, and for a few minutes free me from these bonds, that I may really deserve them.</hi> Thes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> charms soon wrought upon the good nature of the <hi>Bawd,</hi> who was the ve<g ref="char:EOLhyphen"/>ry <hi>Renet</hi> of Concupiscence; so that she readily disingaged her Daughter from the cold embraces of the Pillar.</p>
+            <pb n="15" facs="tcp:204815:21"/>
+            <p>Who being thus happily at liberty, assumes more Courage and Wit from her adventure; and falls to perswade her deliverer to suffer her self to be bound with the same Cord, and to sup<g ref="char:EOLhyphen"/>ply her room only while she hasted to her <hi>Gallant;</hi> to give him an assurance of her constancy; she told her, there could be no hazard in the enterprize, since her Husband was in his bed and fast asleep, and all the world but them<g ref="char:EOLhyphen"/>selves at quiet, and within two minutes she would return and relieve her: Here<g ref="char:EOLhyphen"/>to she added such golden promises, as might have overcome a mind much more obstinate and doubtful than the <hi>Bawds,</hi> who boggled at no danger to oblige a friend; but accordingly shift<g ref="char:EOLhyphen"/>ing her <hi>Mantle</hi> (some will have it to be only a <hi>Blanket</hi>) from her own shoulders to the <hi>Matrons;</hi> readily yielded her self to be bound to the Pillar, in the same manner as she had found her Pre<g ref="char:EOLhyphen"/>decessor. This certainly was a most plea<g ref="char:EOLhyphen"/>sant Scene, well worthy a Theatre, and might make a good plot for a <hi>Tragico<g ref="char:EOLhyphen"/>medy.</hi> The <hi>Matron</hi> leaving her Deputy thus bound and naked, yet without impeachment of her modesty; and mounting on the wings of love, fled
+<pb n="16" facs="tcp:204815:22"/> in an instant to her <hi>Paramour:</hi> 'Twas a bold and adventurous Act this, for a Woman so lately surprized, so cruelly treated, so miraculously delivered; nay, not yet delivered from danger of great<g ref="char:EOLhyphen"/>er torments, and perhaps of death; thus to throw her self into the Arms of her Adulterer, to force, even desti<g ref="char:EOLhyphen"/>ny it self to give way to the satisfacti<g ref="char:EOLhyphen"/>on of her desires. But <hi>Love inspires Audacity and Contempt of all perils into the Weakest and most timorous hearts.</hi>
+            </p>
+            <p>Hardly had the greedy <hi>Matron</hi> with silence express'd her joy, and tasted the first dish of Loves Banquet, <hi>Kisses,</hi> a dish that doth at once satisfie and pro<g ref="char:EOLhyphen"/>voke the Appetite; when the <hi>Soldier,</hi> deceived by the <hi>Mantle</hi> she had bor<g ref="char:EOLhyphen"/>rowed, and mistaking her for the true owner thereof, began to put her from him, as scorning to use his Arms against so base and impudent an Enemy; but she soon guessing at the cause of his a<g ref="char:EOLhyphen"/>version, by her harmonious voice, which yet she durst not raise above a whisper, convinced him of his error, and resto<g ref="char:EOLhyphen"/>red him to a due assurance, that he had the person he look'd for, and no <hi>Change<g ref="char:EOLhyphen"/>ling:</hi> Whereupon, omitting all further ceremonies, he did his devoir to verifie
+<pb n="17" facs="tcp:204815:22"/> the good opinion she had at first sight, when he was bathing himself, concei<g ref="char:EOLhyphen"/>ved of his <hi>good parts;</hi> and she, on the other side (if at least there were now any distinction of sides) did hers, to fix him in a confidence, that her Love was <hi>true</hi> and unfeigned. ¶</p>
+            <p>While these our zealous votaries to the Goddess of Pleasures, are at their silent devotions; the silly <hi>Cuckold,</hi> (now I think we may call him so) her <hi>Husband,</hi> who is an example of that Sentence in <hi>Seneca,</hi> that <hi>many times, by seeking to avoid dangers, we run head<g ref="char:EOLhyphen"/>long into the midst of them,</hi> was in a slumber, wherein his perturbed imagi<g ref="char:EOLhyphen"/>nation presented to him dismal and in<g ref="char:EOLhyphen"/>faust visions: he dreamed that he saw his wife sacrificing her honour, and do<g ref="char:EOLhyphen"/>ing that odious Act, that drew an in<g ref="char:EOLhyphen"/>delible stain and reproach upon him and his whole Family; having broken her bonds asunder, and mixing her self with her armed Adulterer in closest embra<g ref="char:EOLhyphen"/>ces; that himself, while he was labour<g ref="char:EOLhyphen"/>ing to revenge the contumelious injury, was transformed into a <hi>Satyr:</hi> The hor<g ref="char:EOLhyphen"/>ror of this ominous dream interrupting his slumber, and his Fancy retaining a deep impression of those dire Phan<g ref="char:EOLhyphen"/>tasmes;
+<pb n="18" facs="tcp:204815:23"/> he begins to believe his trans<g ref="char:EOLhyphen"/>formation to be real, and feels his Nose, if it were not grown crooked like a <hi>Sa<g ref="char:EOLhyphen"/>tyr</hi>'s; his Forehead, if it were not arm<g ref="char:EOLhyphen"/>ed with Antlers; his Thighs, if they were cloth'd with shaggy hair; his feet, if they were not cloven, and his Toes turned into hoofs; then still credulous of the first part of his vision, he leaps out of his bed, throws open the window, and calls aloud upon his wife, who was now either out of hearing, or not a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leasure to give answer to his curses and reproaches; But alas! the Reverend <hi>Bail,</hi> her <hi>Confident,</hi> heard and trem<g ref="char:EOLhyphen"/>bled; she now, though too late, found the error of her kindness, and saw no way to safety but by obstinate silence, which she with more resolution and con<g ref="char:EOLhyphen"/>stancy kept, than one of <hi>Pythagoras</hi> Scholars during his novitiate, in spite of the ingeminated exclamations of the inraged <hi>Malbecco,</hi> who exasperated by that Contempt (for so he understood it) and fancying some Divine suggesti<g ref="char:EOLhyphen"/>ons to revenge from the <hi>Genius</hi> of the Marriage-bed, snatches up a Razor that lay in the Window, runs down the Stairs in the dark, and flying most furiously at the very face of his wifes
+<pb n="19" facs="tcp:204815:23"/> Deputy, catches her fast by her Nose, and with one well-guided slash cuts it quite off, then flinging the same in her face; <hi>Thou worst of Women,</hi> saith he, <hi>worthy of a greater brand of infamy, there, take that token of my hate, and send it for a present to thy Adulterer; who per<g ref="char:EOLhyphen"/>haps will either grow more enamour'd up<g ref="char:EOLhyphen"/>on this change of thy forme, this new-mo<g ref="char:EOLhyphen"/>dell'd face; or confess thee to have a better Title to his love by thy suffrings for his sake.</hi> Thus insulting over the miserable wretch, and triumphing in his revenge, he returns to his thorny bed, there with sleep to ease his head, now in truth much <hi>heavier</hi> than be<g ref="char:EOLhyphen"/>fore: What shall I say of the poor mangled and noseless <hi>Bawd?</hi> only this; that her fear of a worse accident, if she were known to her Tormentor; made her undergoe her pains and loss with more than a <hi>Spartan</hi> patience: Unhap<g ref="char:EOLhyphen"/>py friendship! sad Exchange! it was her lot to be drencht with the Gall of Love, while the Matron suck'd the Honey of it: her evil destiny to be besmear'd with her own blood, while the more guilty wife was anointed with the Butter of Joy. Thus in <hi>Duels,</hi> we see, often the <hi>seconds</hi> are wounded,
+<pb n="20" facs="tcp:204815:24"/> while the <hi>Principals</hi> remain unhurt.</p>
+            <p>The Schismatical <hi>Nose</hi> was scarce<g ref="char:EOLhyphen"/>ly grown cold, when our <hi>Faustina,</hi> ha<g ref="char:EOLhyphen"/>ving finished her first trial of skil with her <hi>Gladiator,</hi> and with a thousand part<g ref="char:EOLhyphen"/>ing kisses dismiss'd him to recruit his spirits lost in the conflict, returns with the joys of a double victory to her Post. But, how short-lived a thing is sensual delight! how evanid are all our tri<g ref="char:EOLhyphen"/>umphs! when she understood the suf<g ref="char:EOLhyphen"/>ferings of her <hi>Martyr,</hi> the Sun-shine of her content was in a moment darkned with clouds of grief and d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eadful ap<g ref="char:EOLhyphen"/>prehensions, and all her exulting smiles exchanged for tears and dejection of Mind. But <hi>Grief and Fear, are almost as bad Counsellors as Love,</hi> which our witty <hi>Matron</hi> well understanding, and remembring withal, that Nature had furnished her whole Sex with a faculty of quick invention, how to evade ap<g ref="char:EOLhyphen"/>proaching danger, and to conceal faults; re-assures her self, and sets her brain on work how to palliate this wound, which was past her cure. <q>She hath recourse, therefore, to the Art of Consolation, and endeavours to mitigate the <hi>Bawds</hi> dolours with an <hi>Anodyne</hi> of kind and commiserating language. She b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds
+<pb n="21" facs="tcp:204815:24"/> her not to be cast down with her mis<g ref="char:EOLhyphen"/>fortune, which, carried with bravery and discretion, might turn to her ad<g ref="char:EOLhyphen"/>vantage, and prove a noble experi<g ref="char:EOLhyphen"/>ment of her Fidelity among all the <hi>Cimmerians;</hi> that the segment of her Nose would be to <hi>Venus</hi> an offering as grateful and propitiatory, as locks of <hi>hair</hi> to other <hi>Deities;</hi> that if in a Sol<g ref="char:EOLhyphen"/>dier wounds in the face were honoura<g ref="char:EOLhyphen"/>ble witnesses of his courage and brave<g ref="char:EOLhyphen"/>ry; why should not those received in the service of <hi>Venus</hi> be likewise ac<g ref="char:EOLhyphen"/>counted marks of Gallantry and a da<g ref="char:EOLhyphen"/>ring spirit? that though the now morti<g ref="char:EOLhyphen"/>fied <hi>Nose</hi> could not be set on again (for <hi>Tagliacotius</hi> lived a great way off <hi>Cim<g ref="char:EOLhyphen"/>meria</hi>) yet the wound would be easily cured; and at worst, if she were so foo<g ref="char:EOLhyphen"/>lish to resolve not to live without one (a thing many a person of greater qua<g ref="char:EOLhyphen"/>lity had done before her) she would cause a new one to be made for her of much more value, and better mettal than the first.</q> This last promise mol<g ref="char:EOLhyphen"/>lified more than all the consolatory rea<g ref="char:EOLhyphen"/>sons precedent, and the <hi>Bawd</hi> (who had a Soul so abject and Mercenary, that she would for Money have sold her eyes, and ears too into the bargain)
+<pb n="22" facs="tcp:204815:25"/> becom's pacified and comforted there<g ref="char:EOLhyphen"/>with; then being loosed from the Pillar, and binding the <hi>Matron</hi> (who desired it) to the same; she gropes out the piece of her Nose, wraps it up in a corner of her Mantle, and away she trudges in quest of a <hi>Chirurgeon;</hi> lock<g ref="char:EOLhyphen"/>ing the back door very carefully after her, and reflecting upon the ill success of her <hi>obligation.</hi> ¶.</p>
+            <p>King <hi>Salomon</hi> reckoning <hi>Conies</hi> a<g ref="char:EOLhyphen"/>mong the four sorts of Animals, that being little, are yet exceeding wife; saith of them, that <hi>being a generation not strong, they make holes for themselves among the Rocks.</hi> The same may be said of <hi>Women,</hi> who wanting strength to assert their faults, yet have cunning enough to hide them; they make bur<g ref="char:EOLhyphen"/>rows of excuses, and run into them, when in danger to be taken: Like Statesmen, who have for their Impress a Glass Bee-hive, with this Motto, <hi>Nulli patet opus;</hi> they do their business in the dark, or, (as a witty <hi>Italian</hi> ex<g ref="char:EOLhyphen"/>presseth it) <hi>desmienten lo transparente con un vanna de cera,</hi> they smear over their Hives with wax, so that no eye can pry into the secrets of their work<g ref="char:EOLhyphen"/>ings, or be able to trace them in their
+<pb n="23" facs="tcp:204815:25"/> amorous stealths; if you doubt of this, you shall see it verified in the fourth Act of this our Tragicomedy, which we are now arrived at.</p>
+            <p>The <hi>Bawd</hi> being handsomly con<g ref="char:EOLhyphen"/>jur'd away, the coast clear, and all the world at rest; our subtle <hi>Matron,</hi> after a short meditation, hath found out a way, if it succeed, not only to dissem<g ref="char:EOLhyphen"/>ble her joyful Treason, but to appear still innocent and faithful to her <hi>Hus<g ref="char:EOLhyphen"/>band;</hi> yea, yet farther, to invert the guilt upon him, and bring him at last to confess himself to have been in an er<g ref="char:EOLhyphen"/>ror. This, you'l say, is somewhat diffi<g ref="char:EOLhyphen"/>cult: but, remember she is a <hi>woman</hi> and in <hi>Love;</hi> and then you'l conceive it to be facil. Having formed the design, she delays not to put it in execution; Counterfeiting therefore, an appeal to the <hi>Moon</hi> (then newly risen above the verge of the Horizon) with a voice raised by degrees from a low whisper to a pitch high enough to reach the poor <hi>Cuckolds</hi> ears, she invocates her help and protection, in such verses as these.</p>
+            <q>
+               <lg>
+                  <l>Sister of <hi>Jove,</hi> Queen Regent of the night,</l>
+                  <l>From whom the meaner Stars derive their light;</l>
+                  <pb n="24" facs="tcp:204815:26"/>
+                  <l>Or wouldst be worshipt by great <hi>Juno's</hi> name,</l>
+                  <l>
+                     <hi>Joves</hi> Wife, or Sister, thou art still the same.</l>
+                  <l>That Sov'raign Dame, who art the Deity</l>
+                  <l>Os wedlock rites and femal Chastity.</l>
+                  <l>Why with auspicious Omens did I pay</l>
+                  <l>My Nuptial vows upon my Marriage day?</l>
+                  <l>If with an unconcern'd and even face</l>
+                  <l>Thou dost behold the Mischiefs of this place.</l>
+                  <l>And you bright Planets, Heavens unerring eyes,</l>
+                  <l>With which by night, he things on earth descries;</l>
+                  <l>You witnesses of my pure innocence,</l>
+                  <l>(Who yet, as Judges, my hard fate dispense)</l>
+                  <l>Don't you grow dimm with horror, thus to see</l>
+                  <l>A jealous Husbands causeless cruelty?</l>
+                  <l>See, naked, bound, and mangled here I grone,</l>
+                  <l>And expiate offences not my own.</l>
+                  <l>If then the vertuous you can thus torment,</l>
+                  <l>For these rewards, who would be innocent?</l>
+               </lg>
+               <lg>
+                  <l>Methinks, I now seem but my own pale Ghost;</l>
+                  <l>Beauty and Fame (a Womans soul) are lost.</l>
+                  <l>Though pure from Thought, or Act, yet wretched I,</l>
+                  <l>Must wear a face, that gives my heart the lie.</l>
+                  <l>Why live I thus? why does this mangled shape</l>
+                  <l>Confine that soul, which would so fain escape?</l>
+                  <l>To die is better, and one blow to give,</l>
+                  <l>Than rob'd of Honour, nay and Beauty, live.</l>
+                  <l>To die is best indeed; but, oh, the hands,</l>
+                  <l>That should performe my freer Wills commands,</l>
+                  <l>Alas, are fetter'd! —</l>
+                  <pb n="25" facs="tcp:204815:26"/>
+                  <l>For death, when courted, from us then to flie,</l>
+                  <l>Forcing to live, 'tis then he makes us die.</l>
+               </lg>
+               <lg>
+                  <l>Ah, cruel Man! here thou hast torments found</l>
+                  <l>Beyond these bonds, beyond this horrid wound.</l>
+                  <l>Happy <hi>Lucretia,</hi> since thou could'st attest</l>
+                  <l>Thy innocence, by piercing of thy breast;</l>
+                  <l>Whilst thus expiring in thy Husbands arms,</l>
+                  <l>Ev'n in thy death couldst gain more pow'rful charms.</l>
+                  <l>Thou Chast art call'd, because thou couldst but die,</l>
+                  <l>Whilst death to me doth that relief deny.</l>
+               </lg>
+               <lg>
+                  <l>Thou Goddess wert severe unto thy <hi>Jove,</hi>
+                  </l>
+                  <l>And Heav'n couldst purge from his unlawful love:</l>
+                  <l>If to bad Women thou so just art known,</l>
+                  <l>Wilt thou not vindicate one honest one?</l>
+                  <l>Behold with pity, and do not despise</l>
+                  <l>Tears mixt with blood, which flow from mournful eyes.</l>
+                  <l>Punish the jealous Man, and make him feel</l>
+                  <l>The sad effects of his own cruel steel;</l>
+                  <l>Shew him his crime, and what 'tis let him know,</l>
+                  <l>T'offend a Woman, and a Goddess too.</l>
+                  <l>At least be just, and my late form restore</l>
+                  <l>With my lost fame, or let me be no more.</l>
+               </lg>
+            </q>
+            <p>Having breath'd forth this supplica<g ref="char:EOLhyphen"/>tion in a languishing tone, and made it seem more pathetical by interposing now and then a profound sigh or two (and indeed of all our Passions none are
+<pb n="26" facs="tcp:204815:27"/> more easily counterfeited then <hi>Zeal</hi> and <hi>Sorrow</hi>) on a suddain changing the key of her voice into a confused murmur, and then to that of a civil conference, she dissembled a familiar Dialogue with the <hi>Deity,</hi> whose ayd she had newly implored: and in fine, as if her prayer had been heard, and her petition mira<g ref="char:EOLhyphen"/>culously granted, with an elevated voice she makes an <hi>Apostrophe</hi> to her Husband, exclaiming against his im<g ref="char:EOLhyphen"/>prosperous tyranny in these words.</p>
+            <p>
+               <hi>He, thou most barbarous of men, thou F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry in human shape, thy bloody rage a<g ref="char:EOLhyphen"/>gainst thy chastest r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ife hath prov'd thy own undoing. The mercy of the Celestial Powers hath overcome thy Cruelty, lest my virtue might suffer by thy undeserved and base: suspicious. Now shalt thou be forced to confess, what thy impiety made thee doubt of, that I am innocent, and that</hi>
+               <q>There is a God who sees and notes our deeds.</q>
+               <hi>I am convinced, I am convinced; it is none but</hi> Juno, Protectress of conjugal Chastity, <hi>who compassionating my sufferings, hath by Miracle restored that amiable form of mine, which thou, distra<g ref="char:EOLhyphen"/>cted with jealousie, had'st destroy'd. Goe
+<pb n="27" facs="tcp:204815:27"/> then, desperate Villain, and sheath that bloody knife of thine in thy own inhuman bowels; that so unworthy a wretch may no longer enjoy the happiness of so faith<g ref="char:EOLhyphen"/>ful and spotless a Wise. Having obtain<g ref="char:EOLhyphen"/>ed so signal a favour from the immortal Gods, well may I contemn and bid defi<g ref="char:EOLhyphen"/>ance to the anger of a Mortal Man, espe<g ref="char:EOLhyphen"/>cially one so wicked, so degraded by his crimes.— O night! more illustrious than the brightest day. O hour! more for<g ref="char:EOLhyphen"/>tunate than that of my birth.—Now flow on, flow on officious Tears, but from a different passion. But, thou, execrable Hangman, sacrilegious Thief, hasten hi<g ref="char:EOLhyphen"/>ther to be convinced of my purity, and thy crime; make hast, I say, that, if it be possible, thou maist make attonement for the innocent blood thou hast spilt, and for the sacrilege thou hast committed, and so in time appease the wrath of an offended Goddess.</hi> ¶</p>
+            <p>This triumphant <hi>Harangue</hi> arriving at the ears of the poor <hi>Cornuto,</hi> her <hi>Husband</hi> (whom disquiet of mind kept from sleep) it alarmd all his Faculties, and put him into so great a confusion, that giving but little credit to his sense, he lay a good while considering the
+<pb n="28" facs="tcp:204815:28"/> probability of what he heard. At first he thought it an <hi>Illusion</hi> (since to Na<g ref="char:EOLhyphen"/>ture it is much easier to make a man dream impossibilities, than to effect them) and began therefore to feel if his Eyes were open, that he might there<g ref="char:EOLhyphen"/>by be certified, whether he were awake, or not. Then finding it to be no dream, and hearing his Wife continue her Speech, and denouncing a deluge of dire Judgments against him; his rage and jealousie began at once to give place to as vehement Fear and Remorse. Ri<g ref="char:EOLhyphen"/>sing therefore hastily from his bed, and lighting a candle, down he goes, resol<g ref="char:EOLhyphen"/>ved to make his eyes judges of the truth of what he durst not believe up<g ref="char:EOLhyphen"/>on the single testimony of his ears. Arrived at the fatal Pillar, the scene of such prodigious accidents, and be<g ref="char:EOLhyphen"/>holding his Wifes face attentively, he found it perfect, and without the least sign of hurt, nay not so much as stain'd with a drop of blood; and her hands still tied as he had at first left them. Whereat astonish't, and persuaded in himself, that so supernatural an event, as the restauration of a Nose cut off, could not come to pass but by power <hi>Divine;</hi> he sunk down into an abhor<g ref="char:EOLhyphen"/>rence
+<pb n="29" facs="tcp:204815:28"/> of his wicked fact, and of the no less abominable motive thereof, his jea<g ref="char:EOLhyphen"/>lousie; dreading withall some dire pu<g ref="char:EOLhyphen"/>nishment from the just anger of the Gods. Then casting himself upon the pavement, in token of his sorrow and contrition, he washes out the bloody stains thereof with penitential tears. Which done, he kneels in adoration of so manifest a <hi>Miracle,</hi> and in humble but fervent prayers, begs pardon first of Heaven, then of his Wife (too wise to be inexorable) for the horrid effect of his outragious Passion. Which when she, <hi>good Soul,</hi> had graciously promised upon a solemn vow of refor<g ref="char:EOLhyphen"/>mation of Manners on his part, trans<g ref="char:EOLhyphen"/>ported with joy, he unties the cord, sets her at liberty, kisses her all over, and leads her to bed, there to seal his recon<g ref="char:EOLhyphen"/>ciliation to her, now a rare Example of unspotted Chastity. Thus, blest be the God of Love! Our witty <hi>Matron,</hi> hath at once recovered three most pre<g ref="char:EOLhyphen"/>cious things, her <hi>Nose,</hi> her <hi>Honour,</hi> and her Husbands <hi>Love.</hi>
+            </p>
+            <p>Not long after this happy conclusi<g ref="char:EOLhyphen"/>on or <hi>Catastrophe,</hi> the <hi>Bawd,</hi> well rewar<g ref="char:EOLhyphen"/>ded with a purse of money for her loss and feeresy, and hoping to mend her
+<pb n="30" facs="tcp:204815:29"/> fortunes by removing to a place of better trading; packs up her baggage, and marches away to the Court of <hi>Comus,</hi> King of the <hi>Cimmerians:</hi> where she now lives no small Favourite, and exercising her talent every day, in laying new designs, and managing the close intrigues of Love betwixt Ladies and their Gallants. Wherein long pra<g ref="char:EOLhyphen"/>ctice hath made her so excellent, that if any Woman in that Court, be she Maid, Wife, or Widow, please you; and if you commit the matter to her contrivement and intercession: you need not doubt the success.</p>
+            <p>As for the <hi>Souldier,</hi> though my <hi>Au<g ref="char:EOLhyphen"/>thor</hi> sayes no more of him, but what I have recounted; yet, considering that he was a man of honour, a Son of <hi>Mars,</hi> it is not to be doubted, but that he continued secret and faithful to his <hi>Ve<g ref="char:EOLhyphen"/>nus.</hi> Nor is it less probable that <hi>She,</hi> a gracious and obliging Mistress, conti<g ref="char:EOLhyphen"/>nued to love him better, than she did her <hi>Usurer,</hi> notwithstanding her remis<g ref="char:EOLhyphen"/>sion of his cruel usage, and readmission of him to her grace and favour. Where<g ref="char:EOLhyphen"/>upon I cannot at any time reflect, with<g ref="char:EOLhyphen"/>out acknowledging the goodness o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>serpine,</hi> in keeping her promise mad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="31" facs="tcp:204815:29"/> to the Lady <hi>May</hi> in <hi>Chaucer;</hi> which was this, in her answer to <hi>Pluto,</hi> who would fain restore to <hi>January,</hi> her Husband, his sight, that he might see his Esquire, <hi>Damian,</hi> making him <hi>Cuc<g ref="char:EOLhyphen"/>kold</hi> in a Pear-tree.</p>
+            <q>
+               <lg>
+                  <l>You shall (quoth <hi>Proserpine</hi>) and well ye so?</l>
+                  <l>Now by my Mothers Soul, Sir, I swere,</l>
+                  <l>That I shall yeven her sufficient answere,</l>
+                  <l>And all women after for her sake;</l>
+                  <l>That though they ben in any gilte itake,</l>
+                  <l>With face bolde, they shullen hemselve excuse,</l>
+                  <l>And bere hem doun, that wold hem accuse.</l>
+                  <l>For lack of answere, non of hem shull dien,</l>
+                  <l>All had he sey a thing with both his eyen:</l>
+                  <l>Yet should we women so visage it hardely,</l>
+                  <l>And wepe, and swere, and chide subtelly;</l>
+                  <l>That men shall ben as leude as Gees.</l>
+                  <l>What recketh me of your auctoritees, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Explicit Historia, &amp; sequuntur Mysteria Amoris,</hi>
+                  </l>
+               </lg>
+            </q>
+         </div>
+         <div type="part">
+            <pb n="32" facs="tcp:204815:30"/>
+            <head>THE Mysteries and Miracles OF LOVE.</head>
+            <div n="1" type="section">
+               <head>SECT. I.</head>
+               <p>
+                  <seg rend="decorInit">L</seg>OVE is a Ghest sooner entertain'd, than per<g ref="char:EOLhyphen"/>ceived; and yet sooner perceived than known, and much easier known than under<g ref="char:EOLhyphen"/>stood; better understood, than defined or described. As if it challen<g ref="char:EOLhyphen"/>ged only the Heart for its proper a<g ref="char:EOLhyphen"/>partment, and disdained any remove up into the Brain: as if it took delight to be felt not shewn: as if being possessed the recesses of the heart, it feared to be ejected thence, if it once came neer the Tongue. Like Holy Writ, it ad<g ref="char:EOLhyphen"/>mits
+<pb n="33" facs="tcp:204815:30"/> of no Interpreter but it self: not do we come to know it by either prae<g ref="char:EOLhyphen"/>cepts or examples; but by <hi>Infusion.</hi> You may affirm safely, that <hi>Cupid</hi> is not only blind, but also dumb: making all parts of the body vocal, except the tongue. Hence it is, that Lovers are more eloquent in their sighs than in their words, as if no messengers were so fit to convey their sentiments, as their vital breath: and like <hi>Paphian</hi> Doves, they grone forth living Epistles. Nay, they discourse together silently by the rhetorick of their fingers, and weave dialogues in Chaplets. By affable nods, and darted smiles, the vocal Am<g ref="char:EOLhyphen"/>bassadors of desire, they treat about their union; and read each others Soul in glances. Their <hi>Colloquies,</hi> like those of Angels, are made by <hi>intuition:</hi> and they express themselves also, like them, not by the Intellect, but the <hi>Will.</hi>
+               </p>
+               <q>
+                  <l>Oblique intuens inde nutibus —</l>
+                  <l>Nutibus mutuis inducens in errorem mentem puellae:</l>
+                  <l>Et illa contra nutibus mutuis juvenis</l>
+                  <l>Leandri, quod amorem non renuit, <hi>&amp;c.</hi>
+                  </l>
+               </q>
+               <p>is <hi>Musaeus</hi> his description of the Eye-parly between <hi>Leander</hi> and <hi>Hero.</hi> Some<g ref="char:EOLhyphen"/>times
+<pb n="34" facs="tcp:204815:31"/> fixing their wandring countenan<g ref="char:EOLhyphen"/>ces, as upon strangers, while they open<g ref="char:EOLhyphen"/>ly decline and renounce acquaintance, they become secretly familiar. Some<g ref="char:EOLhyphen"/>times their contracted brows threaten displeasure; but at the same time they contract them with such sweetness, that they rather invite than discourage; and their very frowns are obliging. Some<g ref="char:EOLhyphen"/>times their Souls interchangeably sally forth at their Eyes, and steal kisses at a distance; and then return home again triumphing in their invisible thefts. Thus both sides gain, yet neither lo<g ref="char:EOLhyphen"/>ses; both lose and both gain. Their chief aim is, to be surprised: and yet their chief pleasure and glory is, not to be perceived. Thus that which is so often brought into the Theatre, flies all spectators, and acts in its own person. These Divine Confabulators, as if pla<g ref="char:EOLhyphen"/>ced above the lawes of sense, by most certain Auguries divine each others wishes, and search each others heart without dissecting the breast. They are a kind of <hi>Seers,</hi> that behold the desires of their Correspondent, as it were spectres; which like <hi>Catoptrical Images,</hi> are not perceived but by the same art, that created them: or, like the Deities
+<pb n="35" facs="tcp:204815:31"/> of old issuing from their Statues, they inspire the person, to whom they speak; as if two Minds met to animate one Body, and conversed together with no less silence, than one uses to converse with it self alone. Of all our affections, this alone knows not to be expressed; and the sacred rites thereof (as those of the most ancient Gods of the Heathen) are performed in the dark. Though the passion be of it self innocent, yet it is alwayes conjoyned with secret shame: and the same blushes that betray our flame, strive to hide it.</p>
+               <q>
+                  <l>Alterno facies sibi dat responsa rubore,</l>
+                  <l>Et tener affectum prodit utrique pudor;</l>
+               </q>
+               <p>as that merry-conceited <hi>Arnulphus, Episcopus Lexoviensis,</hi> hath well ex<g ref="char:EOLhyphen"/>pressed in a facete <hi>Epigram</hi> of his. Every Love hath its <hi>Flammeum,</hi> as well as <hi>Hymen:</hi> and at the <hi>Elusinean</hi> sacrifi<g ref="char:EOLhyphen"/>ces both sexes are veild. All the Vo<g ref="char:EOLhyphen"/>taries of <hi>Venus,</hi> as well as her darling <hi>Aeneas,</hi> walk surrounded with clouds; and they frequent even publick Thea<g ref="char:EOLhyphen"/>tres invisibly. Nay <hi>Cupid</hi> himself, not contented with a single Veil, con<g ref="char:EOLhyphen"/>trives also Ambushes for more secresy: and oftner takes in Hearts by stratagem
+<pb n="36" facs="tcp:204815:32"/> and surprize, than by storm. Thus He that composed and maintains the World in order, left himself in confusi<g ref="char:EOLhyphen"/>on; dwelling in a retreat of the antient darkness, and primitive Chaos. ¶.</p>
+            </div>
+            <div n="2" type="section">
+               <head>SECT. II.</head>
+               <p>HIs <hi>Mother</hi> too avoids the light e<g ref="char:EOLhyphen"/>ver since he was born; as being as much ashamed of his childish treache<g ref="char:EOLhyphen"/>ries, as offended with the Sun, for dis<g ref="char:EOLhyphen"/>covering her in the arms of <hi>Mars.</hi> She obscures her self in a Labyrinth, and ad<g ref="char:EOLhyphen"/>mits no Eye to prie into her Closet: nay, in her chiefest solaces she uses to shut her own eyes, as being jealous lest they should discover too much of her divinity. She is the true <hi>Sphinx,</hi> that subdues and destroyes by a Riddle: more, she makes every man a Riddle to himself, while being by contrary passi<g ref="char:EOLhyphen"/>ons agitated, and hurried up and down by the flux and reflux of his own vio<g ref="char:EOLhyphen"/>lent thoughts, he at once finds himself a <hi>Captive,</hi> and strives to be a <hi>Conqueror.</hi> And this the capricious Lad, her Son, assists her to effect; that we poor Mor<g ref="char:EOLhyphen"/>tals may believe, she was begotten be<g ref="char:EOLhyphen"/>twixt the winds and waves in a Tempest.
+<pb n="37" facs="tcp:204815:32"/> No wonder then, if Love seem Aenig<g ref="char:EOLhyphen"/>matical and full of contradictions. It is not easily intelligible, how the same person can at the same time both <hi>serve</hi> and be <hi>free;</hi> have all his Faculties de<g ref="char:EOLhyphen"/>voted to the pleasure of another, and yet preserve the command of his own Will; make an absolute resignation of him<g ref="char:EOLhyphen"/>self, and yet pretend not only to Liber<g ref="char:EOLhyphen"/>ty, but to <hi>Dominion:</hi> and yet Love doth soon reconcile these repugnances; and bring his Subjects to govern by obedi<g ref="char:EOLhyphen"/>ence, teaching them, like the Freed<g ref="char:EOLhyphen"/>men of some Roman Emperours, <hi>obse<g ref="char:EOLhyphen"/>quii titulo Dominis imperare,</hi> to rule their Soveraigns will by observance of it, and alter their counsels by obsequiousness and complacency.</p>
+               <p>Nor is it less difficult to conceive, that one can die, and instantly revive a<g ref="char:EOLhyphen"/>gain; yea, be <hi>alive</hi> and <hi>dead</hi> at once; or, like the <hi>Phoenix,</hi> build his own both funeral and vital fire, out of which he reassumes a more vigorous and Youthful Being, than what the flames consumed. Yet nothing is more frequent among Lovers; whom the miraculous Chymi<g ref="char:EOLhyphen"/>stry of Love, by a most pleasant <hi>Palin<g ref="char:EOLhyphen"/>genesis,</hi> restores from their ashes to their primitive state and forme.</p>
+               <pb n="38" facs="tcp:204815:33"/>
+               <p>A man would think at first, that no two things in Nature are more incom<g ref="char:EOLhyphen"/>patible, more inconsistent, more reci<g ref="char:EOLhyphen"/>procally destructive, than those two contrary Passions, <hi>Love</hi> and <hi>Hate;</hi> the former causing <hi>sweet</hi> and <hi>agreeable</hi> mo<g ref="char:EOLhyphen"/>tions in the spirits, and blood, and fi<g ref="char:EOLhyphen"/>bres of the Heart; the later, <hi>unequal, harsh</hi> and <hi>offensive</hi> ones: the one tending to <hi>Complacency</hi> and <hi>Vnion;</hi> the other to <hi>Abhorrence</hi> and <hi>Flight:</hi> the one aim<g ref="char:EOLhyphen"/>ing at the <hi>Felicity,</hi> the other at the <hi>Destruction</hi> of its Object: but upon a se<g ref="char:EOLhyphen"/>cond and more serious consideration of the matter, he shall find, that in the breast of even the most ardent and re<g ref="char:EOLhyphen"/>fined <hi>Inamourato</hi> these two so professed <hi>Enemies</hi> are become not reconciled, but <hi>Twins,</hi> and those too not such as <hi>Castor</hi> and <hi>Pollux,</hi> rising and setting alternate<g ref="char:EOLhyphen"/>ly, but like <hi>Lazarus</hi> and his <hi>Brother,</hi> growing together, so that one is not only an individual Companion, but also an <hi>Appendix,</hi> or rather an <hi>integrant part</hi> of his fellow. For, the <hi>Servant</hi> alwayes wishes his Mistress <hi>less Happy</hi> than she is, that so his affection may ap<g ref="char:EOLhyphen"/>pear more pure, more sincere, and de<g ref="char:EOLhyphen"/>termined upon her <hi>Person</hi> alone. Is she <hi>wise</hi> and discreet; He presently repro<g ref="char:EOLhyphen"/>ches
+<pb n="39" facs="tcp:204815:33"/> the Stars, that favour'd her with so strong a defence; as conceiving, that if her Brain were less sound, her Heart would be more tender, and that if she had less <hi>wit,</hi> himself would be less subject to her <hi>Contempt.</hi> Is she in <hi>Health,</hi> He secretly invocates <hi>Jove</hi> to afflict her with <hi>Sickness,</hi> that he may have that occasion to demonstrate his grief, his tenderness, his sympathy. Is she <hi>Rich,</hi> He cannot forbear to wish her in <hi>Want,</hi> that he might endow her with his For<g ref="char:EOLhyphen"/>tune. Is she at <hi>Liberty,</hi> He longs to see her a <hi>Captive,</hi> that he may merit her favour by hazarding all in her re<g ref="char:EOLhyphen"/>demption. Is her <hi>Fame</hi> clear and imma<g ref="char:EOLhyphen"/>culate; how glad would he be some li<g ref="char:EOLhyphen"/>centious tongue would defile her Ho<g ref="char:EOLhyphen"/>nour, that he might wash away the stains, though with his blood. Is her <hi>Birth</hi> and <hi>Quality</hi> noble; he would fain degrade her, that she might derive all her Dignity from the Generosity of his Love. In a word, in some sort or other He wishes her <hi>Miserable,</hi> that he may have the glory to <hi>relieve</hi> her, and that her own <hi>Necessity</hi> may draw, rather than his Courtship and Observance invite her to his embraces. He had rather be her <hi>Sanctuary,</hi> than her <hi>Conqueror.</hi> Now
+<pb n="40" facs="tcp:204815:34"/> is not here a certain <hi>Malignity</hi> mixt with <hi>Benevolence; Zeal</hi> tempered with <hi>Hate; Inhumanity</hi> proceeding from excess of <hi>Kindness; Cruelty</hi> conjoyned with the greatest <hi>Charity?</hi> Yet such is the Con<g ref="char:EOLhyphen"/>stitution of Love. <hi>Cupid</hi> has no darts headed with pure Gold. What God soever made and tippd his Shafts, ser<g ref="char:EOLhyphen"/>ved him as the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (as <hi>Rivaltus</hi> calls him) the treacherous Artist did <hi>Hiero,</hi> King of <hi>Syracuse</hi> in casting his Crown, put in a great deal of Copper a<g ref="char:EOLhyphen"/>mong the Gold. Which is perhaps one reason why the wounds of Lovers are so painful and apt to fester; it being the na<g ref="char:EOLhyphen"/>ture of Brass to ulcerate and breed Can<g ref="char:EOLhyphen"/>cers. I think it therefore no blasphemy against the so much adored Divinity of Love, to affirm, that it always hath some alloy of that Devil, <hi>Malice:</hi> and that <hi>no Man love's without Indignation.</hi> Especi<g ref="char:EOLhyphen"/>ally when I reflect upon this, that the torments he suffers cannot but force him even against his will to execrate his fair Tormentor; to be angry with the Thief, that robb'd him of himself; to wish that bright flame obscured or ex<g ref="char:EOLhyphen"/>tinct, that burns his wings, though, like the foolish Butterfly, he at the same time ceases not to flutter about it, and
+<pb n="41" facs="tcp:204815:34"/> (as a Modern Wit finely expresses it) <hi>beate frui necis autore,</hi> to enjoy his Mur<g ref="char:EOLhyphen"/>derer. Nor is it the poor neglected and despised Lover, that alone hath rea<g ref="char:EOLhyphen"/>son to complain of, and reproach his Mistress; even the most prosperous and triumphant feels disquiet and anguish enough to cause <hi>Regret,</hi> which is a kind of <hi>Anger.</hi>
+               </p>
+               <q>
+                  <l>— Dolor, querelae,</l>
+                  <l>Lamentatio, lachrymae perennes,</l>
+                  <l>Languor, anxietas, amaritudo,</l>
+                  <l>Aut si triste magis potest quid esse,</l>
+                  <l>Hos tu das comites <hi>Naeera</hi> vitae;</l>
+               </q>
+               <p>was the complaint of a Lover in <hi>Plautus,</hi> even after victory: and <hi>Poets</hi> them<g ref="char:EOLhyphen"/>selves, none of the severest censurers of this Heroic passion, call it <hi>suavem amariciem, dolentiam delectabilem, hi<g ref="char:EOLhyphen"/>lare tormentum.</hi> Nay, old <hi>Plautus</hi> so far condemned it, as he could not hold from crying out, <hi>Credo ego, ad hominis carnificinam Amorem inventum esse.</hi> If Love then be so full of gall and anxi<g ref="char:EOLhyphen"/>ety, who can suffer it without secret de<g ref="char:EOLhyphen"/>testation? who without reflecting upon the Author of his perturbations with displeasure and offence. Certainly the most gentle, the most patient, the sweetest temper, when urged and pro<g ref="char:EOLhyphen"/>vok'd
+<pb n="42" facs="tcp:204815:35"/> by these inward gripes and pangs, will hardly be able to refrain from ex<g ref="char:EOLhyphen"/>claiming, with <hi>Phaedria</hi> in <hi>Terence</hi>
+                  <q>
+                     <l>—<hi>O</hi> Thais, Thais! utinam esset mihi.</l>
+                     <l>Pars aequa amoris tecum; ac pariter fieret,</l>
+                     <l>Ʋt aut hoc tibi doleret itidem, ut mihi dolet,</l>
+                     <l>Aut ego istuc abs te factum nihili penderem.</l>
+                  </q>
+               </p>
+               <p>What's more common among Lo<g ref="char:EOLhyphen"/>vers, than thus to wish their torments transplanted from their own into their Mistresses breast? and is not that to <hi>curse</hi> them? which the most savage na<g ref="char:EOLhyphen"/>ture would not do without <hi>indignation.</hi> It was not without good reason then, that <hi>Aristotle</hi> (2 <hi>Rhetor.</hi>) placed Love in the <hi>Irassible</hi> part of the Soul; nor is it out of affectation of being Paradoxi<g ref="char:EOLhyphen"/>cal, but Zeal to Truth, that I have here asserted, That no man can Love without <hi>indignation,</hi> which will appear somewhat more perspicuous, if we con<g ref="char:EOLhyphen"/>sider, that <hi>indignation</hi> is always accom<g ref="char:EOLhyphen"/>panied with either <hi>Commiseration</hi> or <hi>Ir<g ref="char:EOLhyphen"/>rision.</hi> For, to do evil, is in some sort to suffer evil; and therefore some men, when they observe any one to do evil, joyn to their indignation against, a Com<g ref="char:EOLhyphen"/>miseration for the doer, while others on
+<pb n="43" facs="tcp:204815:35"/> the same occasion, mix Irrision with their Indignation; according as they stand well or ill affected to the person doing amiss; so that the laughter of <hi>Democritus,</hi> and the weeping of <hi>Hera<g ref="char:EOLhyphen"/>clitus</hi> might proceed from one and the same cause; and Commiseration, which is a degree of <hi>Love,</hi> may go hand in hand with Indignation.</p>
+            </div>
+            <div n="3" type="section">
+               <head>SECT. III.</head>
+               <p>ANother of Loves <hi>Problems</hi> is this; that the most happy Lovers find their very enjoyments unsatisfactory, their joys insincere. To them it is dif<g ref="char:EOLhyphen"/>ficult, to love; not to love, more dif<g ref="char:EOLhyphen"/>ficult; most difficult to be possess'd of what they love. Be the <hi>Saint</hi> never so propitious, never so obliging; still the <hi>votary</hi> continues his supplications, his importunity, and not contented with all she can grant, or he receive, he seeks for more. The miserable Mind is afflicted no less with the <hi>success,</hi> than with the <hi>vehemence</hi> of its desires; and like the <hi>Misers,</hi> continues poor in the midst of Wealth; after a feast it riseth empty, retaining that sweet torment, <hi>suspirare &amp; cupere.</hi> As if they had as
+<pb n="44" facs="tcp:204815:36"/> little use of their Memory, as of their Reason and Will, forgetting the short<g ref="char:EOLhyphen"/>ness, the emptiness of past enjoyments, they furiously hunt after more. <hi>Memo<g ref="char:EOLhyphen"/>riae minimum tribuit, quisquis spei pluri<g ref="char:EOLhyphen"/>mum.</hi> Every one puts a higher value up<g ref="char:EOLhyphen"/>on his <hi>Hopes,</hi> than upon his <hi>Attainments.</hi> As their desires so afflict, that they at the same time please and delight, so their joys are infested with such calami<g ref="char:EOLhyphen"/>ties, that they excruciate. Here (if you please) let us stand a minute or two, and consider how this can be. The pas<g ref="char:EOLhyphen"/>sion of <hi>Joy</hi> (you know) always fol<g ref="char:EOLhyphen"/>lows upon a rickling of the senses by some agreeable object; and its contrary <hi>Grief,</hi> upon the offence and grating of them: and yet Grief may sometimes be sustain'd with joy; and there are, on the other side, some certain titillati<g ref="char:EOLhyphen"/>ons that offend. But the true reason why Joy ariseth for the most part from <hi>titillation,</hi> I conceive to be this; that the pleasure of all sensation consisteth in the Objects causing in the Nerves and Brain some motion, which might violate and hurt them, in case they were not firm and tense enough to re<g ref="char:EOLhyphen"/>sist it; This resistence makes upon the centre of the brain an impression, which
+<pb n="45" facs="tcp:204815:36"/> being instituted by Nature, to signifie and a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>test the good constitution and strength of the Nerves, represents the same to the <hi>Soul</hi> as a <hi>Good</hi> pertaining to her, so far forth at least, as she is con<g ref="char:EOLhyphen"/>joyn'd to the Body; and by that means excites <hi>joy</hi> in her; the same reason serves also to explain, why naturally it is plea<g ref="char:EOLhyphen"/>sant to every man, to feel himself com<g ref="char:EOLhyphen"/>moved to all sorts of Passions, yea even to sadness and hatred, when those Af<g ref="char:EOLhyphen"/>fections arise only from the various e<g ref="char:EOLhyphen"/>vents represented in Theatres, or other the like subjects, wherein he is not con<g ref="char:EOLhyphen"/>cerned. Which, because they can no way harm us, seem to tickle the soul by touching her. And <hi>Pain</hi> ordinarily produceth <hi>Grief,</hi> because that offense of the sense, which is called <hi>Pain,</hi> a<g ref="char:EOLhyphen"/>riseth from some Action so violent, as to hurt the Nerves: of which the soul instantly becoming sensible, looks up<g ref="char:EOLhyphen"/>on it as an <hi>Evil</hi> extending to her al<g ref="char:EOLhyphen"/>so, and thereupon is affected with <hi>Grief;</hi> unless in some such cases, where she is strongly diverted by expectation of a greater Good from that Evil. As <hi>Mar<g ref="char:EOLhyphen"/>tyrs</hi> have exulted in their torments, not that they were insensible of them, but because their souls were possessed with
+<pb n="46" facs="tcp:204815:37"/> a confident hope that those short pains would produce eternal pleasures.</p>
+               <p>Upon this consideration perhaps, or some other not much different from it, it was, that <hi>Seneca</hi> thus expostulates with his dear <hi>Lucilius,</hi> about his im<g ref="char:EOLhyphen"/>moderate sorrow for the death of their common Friend, <hi>Flaccus (Epist.</hi> 63.) <hi>Quaeris unde lamentationes, unde immo<g ref="char:EOLhyphen"/>dici fletus? per lachrymas argumenta desiderij quarimus: &amp; dolorem non sequi<g ref="char:EOLhyphen"/>mur, sed ostendimus, nemo tristis sibi est. est aliqua &amp; doloris ambitio.</hi> The summe whereof is this, that we find a certain pleasure in Grieving; and that that pleasure is grounded upon <hi>Ambiti<g ref="char:EOLhyphen"/>on</hi> (which is neerly allied to <hi>Love</hi>) to make it known to others, how well we loved that for which we grieve. To bring all this to our present argument. You see then, that Joy and Grief are no <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, no incompatible Passions, no such Enemies but that sometimes at least they may dwell together in one breast. If so, why may not the Joys of Lovers be commixt with Grief? why may not their Fruitions be unsatisfacto<g ref="char:EOLhyphen"/>ry? I could fill a whole Page with the names of such, whose flames raged more by extinction, and whose love
+<pb n="47" facs="tcp:204815:37"/> was so far from languishing, that it grew more strong and violent by the posses<g ref="char:EOLhyphen"/>sion of its object. <hi>Cupid</hi> is the son of <hi>Venus,</hi> you know: and nursed by his Mothers Milk; and our friend <hi>Chaucer</hi> therefore wisely fixes the <hi>Epoche</hi> of <hi>Aeneas</hi> and <hi>Dido's</hi> love on the <hi>Jubile</hi> they celebrated in the Cave, whither the tempest of Thunder and Lightning had forced them to retreat.</p>
+               <q>
+                  <l>And shortly fro the Tempest her to save;</l>
+                  <l>This noble Quene fled into a Cave.</l>
+                  <l>And with her went this <hi>Aeneas</hi> also;</l>
+                  <l>I wot not, with them if there went any mo.</l>
+                  <l>The Auctour maketh of it no mention.</l>
+                  <l>And here began the deep affection</l>
+                  <l>Betwixt hem two. this was the first morrowe</l>
+                  <l>Of her gladness, and ginning of her sorowe;</l>
+               </q>
+               <p>The <hi>Reason</hi> is, that the Lover, appre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ending no fruition total, no possession <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntire, supposeth some further good in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he object, than what his former enjoy<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent made him acquainted withall: nor <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth he propose to himself meerly a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ontinuation of the Good he hath en<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y'd; because whoever wisheth the con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inuation of a Good, considers it not as a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing present, but to come, and con<g ref="char:EOLhyphen"/>sequently
+<pb n="48" facs="tcp:204815:38"/> as a thing which yet he doth not know; for no man can know what is not. So that the <hi>wandering</hi> Love, which hunts after variety, and the <hi>Con<g ref="char:EOLhyphen"/>stant,</hi> that is determined and fixt upon one individual object, are twinns of the same birth, and have one and the same original: the latter affecting <hi>Novelty</hi> no less than the former. Here's all the dif<g ref="char:EOLhyphen"/>ference; one pursues Novelty in a sin<g ref="char:EOLhyphen"/>gle person: the other in a multitude: but both are equally insatiate. <hi>O infe<g ref="char:EOLhyphen"/>licem stultitiam! O insaniam volunta<g ref="char:EOLhyphen"/>riam!</hi> what strange infelicity is this <hi>voti compotem voto non posse frui,</hi> to have, and at the same time to want? The Covetuous mans curse, is to possess and not enjoy: the Lovers greate<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to enjoy and not enjoy; <hi>utpote cui majo<g ref="char:EOLunhyphen"/>ra, quám quae tota simul indulgeri fas sit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> gaudia quaeruntur.</hi> The wise man (<hi>Ec<g ref="char:EOLhyphen"/>clesiasticus</hi> 30. and 20.) describing th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> misery of the one, compares it to th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> other: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>Septuagint.</hi> he beholds his treasur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with greedy eyes, and sighs, as an <hi>E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>nuch</hi> embraceth a Virgin and sighs, sig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> most bitterly. So our Lover sighs, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> enjoys, and still sighs. And to spea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="49" facs="tcp:204815:38"/> strictly, in this sense <hi>Hercules</hi> himself, who deflowred fifty Virgins in a night, was but an <hi>Eunuch</hi> for all that, so we are all, and our Ladies <hi>Virgins;</hi> we embrace and sigh; still unsatisfied, still coveting, <hi>quod nec assequi, nec scire datur,</hi> more than the nature of the thing can afford.</p>
+               <p>Notwithstanding this imperfection of our chiefest solace, I am so far from accusing Nature of improvidence or unkindness, in making Love of this composition; that on the contrary, I judge it to be an argument of her <hi>Wis<g ref="char:EOLhyphen"/>dom</hi> and <hi>Indulgence.</hi> Because our plea<g ref="char:EOLhyphen"/>sure is endeared by its being incom<g ref="char:EOLhyphen"/>plete; and our appetite would soon be turned into loathing, if once satiated. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; is a Maxime of the <hi>Indian Gymnosophist,</hi> in his speech to <hi>Alexander</hi> the <hi>Great,</hi> re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orded by <hi>Palladius de Bragmanibus,</hi> not long since set forth by the learned Knight Sir <hi>Edward Bisse, Clarenciux</hi> King at Arms. To this purpose it was <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ost elegantly said by a modern Wit, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riting upon the same subject; <hi>huic af<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ectui sollicitè, prospexit Numen, dum <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>udio immiscuit tremorem &amp; sollicitu<g ref="char:EOLhyphen"/>dinem,
+<pb n="50" facs="tcp:204815:39"/> ut delicatior exiret voluptas.</hi> All desire indeed, is grounded upon want, and want implies imperfection: yet the desire whereof we are now speaking, being mostly an effect of fulness, hath such a <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, such a <hi>complacentia</hi> an<g ref="char:EOLhyphen"/>nex'd to it, that few complain of it as an imperfection. Nor are there many of <hi>Plato</hi>'s mind in this particular, who (as <hi>Marsilius Ficinus</hi> in his life) thought it enough only once to <hi>sacrifice to Na<g ref="char:EOLhyphen"/>ture.</hi> Most are as much pleas'd to pos<g ref="char:EOLhyphen"/>sess this desire, as to satisfie it: yea, to speak freely, the desire is it self some satisfaction; <hi>aequali voluptate afficiunt, &amp; quod adest jam, &amp; quod futurum spe<g ref="char:EOLhyphen"/>ratur; nam dulcis desiderii dens interim mordet, &amp; dum periculum facis, speras;</hi> was the merry <hi>Lucians</hi> saying to his <hi>Theomnestes</hi> in <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> And I am apt to believe, it was upon this very motive, that <hi>Luther</hi> openly professed, that with<g ref="char:EOLhyphen"/>out the <hi>consolatiuncula creaturulae</hi> he could not live contented.</p>
+            </div>
+            <div n="4" type="section">
+               <pb n="51" facs="tcp:204815:39"/>
+               <head>SECT. IV.</head>
+               <p>YEt more <hi>Aenigmata,</hi> more per<g ref="char:EOLhyphen"/>plexing Difficulties in Love. This Affection, which composeth all other commotions of the soul, which reconciles Men, wild Beasts, and Phi<g ref="char:EOLhyphen"/>losophers, is yet at <hi>variance with it self;</hi> being founded upon a discordant con<g ref="char:EOLhyphen"/>nexion of unlike and asymbolical na<g ref="char:EOLhyphen"/>tures, it maintains its power by a civil Warre; and, like some pictures, varies its representations according to the dif<g ref="char:EOLhyphen"/>ferent positions of the eye that specu<g ref="char:EOLhyphen"/>lates it, on one hand it carries the as<g ref="char:EOLhyphen"/>pect of <hi>Fear;</hi> on the other, of <hi>Mag<g ref="char:EOLhyphen"/>nanimity:</hi> in one posture it appears <hi>Blind;</hi> in another, <hi>sharp-fighted;</hi> here a <hi>Fool;</hi> there <hi>Wise, &amp;c.</hi> so that its picture cannot be drawn in one Image: and the spectator may easily be mistaken in its lines and features. To be particular.</p>
+               <p>When you see a languishing Lover, whose armes seem so tender and deli<g ref="char:EOLhyphen"/>cate, that you think them fit only for embraces; who exhales nothing but odours or sighs; who is strook down with the contraction of a brow, and wounded to the heart with the dis<g ref="char:EOLhyphen"/>dainful
+<pb n="52" facs="tcp:204815:40"/> glance of an eye: take heed notwithstanding, how you reproach him as a <hi>soft, effeminate</hi> and <hi>pusillanimous</hi> person. For, realy he is <hi>hardy, daring</hi> and <hi>adventurous;</hi> he repines not at the tediousness or cold of nightly vigils; he inures himself to difficulties; like <hi>Caesar</hi> posting from <hi>Rome</hi> into <hi>Germany,</hi> he despises the obstacles of the <hi>Alps,</hi> of frost and snow and overflowing ri<g ref="char:EOLhyphen"/>vers; he exercises his fortitude with submissively undergoing accumulated injuries; he defies dangers, nay, makes it a pleasure to create them in his ima<g ref="char:EOLhyphen"/>gination, and is gratified with the en<g ref="char:EOLhyphen"/>countre of adverse accidents, as favours to his zeal, and arguments of his de<g ref="char:EOLhyphen"/>votion, he neglects not only dress, but health; and, like <hi>Candidates</hi> for St. <hi>Peters</hi> chair, or the Dukedom of <hi>Venice,</hi> thinks it advantagious to look faint, pale and meagre.</p>
+               <p>Nor ought you to accuse him of <hi>Stu<g ref="char:EOLhyphen"/>pidity,</hi> though you observe him to suf<g ref="char:EOLhyphen"/>fer Contempts and Affronts from his proud <hi>Stratonice,</hi> without just resent<g ref="char:EOLhyphen"/>ment. For, he (be you well assured) is wholly transmigrated into soul, be<g ref="char:EOLhyphen"/>come all spirit, retreated into that Aetherial particle of Fire, which is im<g ref="char:EOLhyphen"/>passible,
+<pb n="53" facs="tcp:204815:40"/> and can not be touch'd. If this seem less credible, be pleas'd to consi<g ref="char:EOLhyphen"/>der, it is the Religion of Love to over<g ref="char:EOLhyphen"/>come evil with good, to extinguish the fire of malice by the brighter flame of Charity; the Philosophy of this endea<g ref="char:EOLhyphen"/>ring Passion, to subdue hatred by sub<g ref="char:EOLhyphen"/>mission and obsequiousness. Besides, our good-natured Gallant entertains, neglects &amp; scorn, not with insensibility, but <hi>discretion:</hi> as well understanding, that injuries as they fade and die of themselves, when bravely despised; so they pass into Benefits, when received with gentleness and humanity. <hi>A flint is broken on a feather-bed.</hi>
+               </p>
+               <p>Will you charge him with <hi>Blindness,</hi> because he discerns not the defects, the spots of his Mistress; but takes these for starres, and those for ornaments; and by a most obliging error gilds over her faults with the title of the neerest virtues? Herein certainly you are no e<g ref="char:EOLhyphen"/>qual Arbiter. You require a Censor, not a Lover; and in the place of true affection, you expect a severe judge<g ref="char:EOLhyphen"/>ment. It is a sign of ill-nature in you, thus to envy him the pleasure of an error, wherein he thinks himself more happy. Is it not lawful for him to impose
+<pb n="54" facs="tcp:204815:41"/> upon himself by such innocent fraud? to form in his mind a more august image of her, whom he is resolved to contem<g ref="char:EOLhyphen"/>plate and adore? we account it an ex<g ref="char:EOLhyphen"/>cellency in a Painter, to make his pie<g ref="char:EOLhyphen"/>ces fairer than the Originals; and among the many praises deservedly ascribed to our incomparable <hi>Mr. Lely,</hi> this is not the least, that his curious pencil can at pleasure not only follow the finest lines of Nature, but sweeten them; at once both imitate and excell the life. Why then do you condemn the same in a Lover? it is indeed an excess in both; of Art in one; of Affection in the other: and, in my opinion, equally commendable. Imagination is unconfined even by Na<g ref="char:EOLhyphen"/>ture: and the very Extravagances there<g ref="char:EOLhyphen"/>of in love have been approved by <hi>Venus</hi> herself, in that she infused warmth and life into <hi>Pygmalions Eburnea.</hi> That, you'll say was a fiction: yet the Mytho<g ref="char:EOLhyphen"/>logy may serve to justifie our <hi>Inamorato.</hi> The life given to that Statue by the Goddess, was no other than the grace and beauty of the Figure, which <hi>Appel<g ref="char:EOLhyphen"/>les,</hi> in his Pictures called the <hi>Venus;</hi> which made it live in the estimation of those times, and admiration of posterity. <hi>Lucian's Panthea</hi> (in <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) likewise, it
+<pb n="55" facs="tcp:204815:41"/> is probable, was no other than an Ima<g ref="char:EOLhyphen"/>ginary or Romantique Lady, made up of all the rare idea's of Beauty, and ad<g ref="char:EOLhyphen"/>mirable endowments of mind, whereof humane nature is capable; for, his best Interpreters are at a loss in their conje<g ref="char:EOLhyphen"/>ctures, what divine Princess that was, whose glorious perfections he designed to celebrate under the veil of that Name: yet even learned and grave men are so highly pleased with the descrip<g ref="char:EOLhyphen"/>tion and Character, that they equally admire his Wit, and her accomplish<g ref="char:EOLhyphen"/>ments, and scarcely abstain from rival<g ref="char:EOLhyphen"/>ling him in both. If such admiration then, and applause be due to <hi>Lucian</hi>'s Fancy; why do you deride that of our <hi>Inamorato,</hi> who thereby endeavours to form to himself such another <hi>Panthea?</hi> If he deceive himself, 'tis to his own misfortune, not your prejudice; yet how can we call that a misfortune, which he (the best judge in the case) esteems a Felicity?</p>
+               <p>But all this while the <hi>Dimness</hi> seems to be in your Understanding, not in his sight. His eyes are not put out, but only covered with a thin vail, through which they see more securely, more cleerly; as we behold the Sun best
+<pb n="56" facs="tcp:204815:42"/> through a skreen of clouds. You are to imagine them only contracted, as those to take aim, that they may discern more accutely and distinctly. Being fixt upon one object, and that a bright and charming one, they do not indeed so plainly perceive other things; yet not that they are weak, but because they loath them, and will not endure to be diverted: which is not to be dim-sight<g ref="char:EOLhyphen"/>ed, but to see <hi>too much.</hi> Again, if to Philosophize, be nothing but to con<g ref="char:EOLhyphen"/>template <hi>Idea's;</hi> then to love, is to be a Philosopher. Yea, if every man loves so much as he understands (which was <hi>Plato</hi>'s opinion) then dotage in love is an argument of Science.</p>
+               <p>You are too blame, therefore, if you think vehemency of desire to be a sort of <hi>Madness;</hi> or take our Lover for one <hi>Infatuated,</hi> only because his actions seem extravagant. Alas! what you call <hi>Follies</hi> in him, are the <hi>Mysteries</hi> of a Divine Fury, or Enthusiasm. Love in<g ref="char:EOLhyphen"/>spires into the Mind a new Faculty of acting by a more certain and compen<g ref="char:EOLhyphen"/>dious way, than that of Ratiocination: all his Reason, like that art by which spiders weave their curious nets, and Bees Govern their Commonwealth, is
+<pb n="57" facs="tcp:204815:42"/>
+                  <hi>Instinct.</hi> His hand is not guided by the eye, when he shoots at human hearts; but by the Divinity of his <hi>Genius:</hi> and therefore, though he never takes aim, he never misses the mark.</p>
+               <q>
+                  <l>Impotens flammis simul &amp; sagittis,</l>
+                  <l>Iste lascivus puer ac renidens</l>
+                  <l>Tela quam certo moderatur</l>
+                  <l>— arcu!</l>
+               </q>
+               <p>While we poor mortals regulate our affairs by Reason, which is a la<g ref="char:EOLhyphen"/>borious faculty, and obnoxious to error; it is the priviledge of his Divini<g ref="char:EOLhyphen"/>ty, to be carried on by a quick and most certain <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or <hi>force,</hi> to all his ends; and, like the <hi>Supreme Being,</hi> he is wise without deliberation or counsel. It is not then the prerogative of <hi>Jove</hi> alone, <hi>sapere &amp; simul amare,</hi> to be wise and to love at once. For if wisdome be, <hi>scire quid sit optimum;</hi> then certainly a Lover is also wise, because he knows whats best; <hi>aliud enim</hi> (as <hi>Senecca) amare prae<g ref="char:EOLhyphen"/>ter optimum, nefas est.</hi> If after all this you will not allow him to be in his wits, pray consider what subtle devices, am<g ref="char:EOLhyphen"/>bushes, stratagems, and artifices he in<g ref="char:EOLhyphen"/>vents and makes use of, to take in that strong and by open force impregnable fortress of his Mistresses heart. Cast
+<pb n="58" facs="tcp:204815:43"/> your eye upon those troops of Virgins, that are daily led Captives, as trophies of their Lovers wit and cunning: all which were of necessity to be deceived, before they could be taken, and by ar<g ref="char:EOLhyphen"/>tificial violence to be drawn to their own desires. For, they love more, to be ingeniously beguil'd, than to be lo<g ref="char:EOLhyphen"/>ved; and the readiest way to bring them into the circle of your embraces, is first to circumvent them with pretty fallaces and amorous treacheries. Now he that can with neat address, unper<g ref="char:EOLhyphen"/>ceived snares, and harmless frauds bring this to pass; either he is no <hi>Fool,</hi> or I am one to think him otherwise, and so was <hi>Virgil</hi> when he said — <hi>quis fallere possit amantem?</hi> &amp; <hi>Mantuan,</hi> when he said
+<q>Nam{que} dolos inspirat amor, fraudes{que} ministrat.</q> Nay, so far is this Passion from darken<g ref="char:EOLhyphen"/>ing the understanding, and casting a mist over the Eye of the Mind, that it rather <hi>illuminates</hi> and clears it. Wit<g ref="char:EOLhyphen"/>ness that pleasant Story in <hi>Boccace</hi> (which he borrowed from the <hi>Greeks,</hi> and which <hi>Beroaldus</hi> hath translated in<g ref="char:EOLhyphen"/>to <hi>Latin,</hi> and <hi>Beblius</hi> turned into ele<g ref="char:EOLhyphen"/>gant verse) of <hi>Cymon</hi> and <hi>Ephigenia.</hi>
+                  <pb n="59" facs="tcp:204815:43"/> This <hi>Cymon,</hi> the Son of a Governor of <hi>Cyprus,</hi> was naturally so very a <hi>Fool,</hi> so stupid an indocil an Ass, that his Fa<g ref="char:EOLhyphen"/>ther being ashamed of his rude and ideot-like behaviour, sent him to be kept at a remote and solitary Grange of his in the Country. Where he walk<g ref="char:EOLhyphen"/>ing alone, as his custome was, by chance espied a beautiful young Gentlewoman, <hi>Iphigenia,</hi> a Burgomasters Daughter of <hi>Cyprus,</hi> as she lay fast asleep with her Maid, in the cool shade of a little Thic<g ref="char:EOLhyphen"/>ket, with no envious cover, but a clean transparent Smock, that rather betray'd than conceal'd her excellent shape and whiter skin. At this surprising vision poor simple <hi>Cymon</hi> was astonisht; he stood leaning on his staff (for his legs were now unable alone to support his trembling body) gaping on this female Angel, unmoveable, and in a trance of wonder and amazement. Upon which Love immediately succeeding, and in a moment with its celestial raies dispel<g ref="char:EOLhyphen"/>ling all the foggs of his cold and phleg<g ref="char:EOLhyphen"/>matick brain, yea inspiring him as it were with a new and ingenious soul; he rowzd up himself; reflected upon the misery and dishonour of his late condi<g ref="char:EOLhyphen"/>tion, and put on a sprightly resolution
+<pb n="60" facs="tcp:204815:44"/> to pursue his Nymph with Courtship and Gallantry, worthy her admirable Form, and his own noble extraction. To this purpose he the next day fol<g ref="char:EOLhyphen"/>lowed his retreating Fairy to the City, put on a becoming habit, and with it a graceful and obliging Mine: and ani<g ref="char:EOLhyphen"/>mated with hope, industriously imploy'd himself in learning Musick, dancing, fencing, and acquiring all other good qualities requisite in a Gentleman. So that in a very short time he was trans<g ref="char:EOLhyphen"/>formed from an <hi>Ideot,</hi> a <hi>Bartholmew-Cokes,</hi> a Clown, to a <hi>Bon Esprit,</hi> a <hi>Virtuoso,</hi> a <hi>Truwitt,</hi> in a word, to the most accomplish'd Gallant of the times: nor was <hi>Iphigenia</hi> so invincible to such assaulting perfections, as not by marri<g ref="char:EOLhyphen"/>age of him to appropriate to her self the fruits of the Miraculous <hi>Metamor<g ref="char:EOLhyphen"/>phosis</hi> the vision of her Beauties had wrought in him. Such power hath the sight of a fair Lady naked to cause Love; such power hath Love to cure the Lethargy of the Soul, and awaken it into Wit and Galantry, making a <hi>Heros</hi> of a <hi>Sott,</hi> in fewer minutes than the Writers of Romances can in years. I say, a <hi>Heros;</hi> because the same <hi>Cymon</hi> proved also famous at <hi>Arms,</hi> fought
+<pb n="61" facs="tcp:204815:44"/> sundry combats, performed many he<g ref="char:EOLhyphen"/>roical exploits, and alwaies had Fortune for his Second: the same flame that en<g ref="char:EOLhyphen"/>lightned his understanding, having hea<g ref="char:EOLhyphen"/>ted his blood also, and kindled Cou<g ref="char:EOLhyphen"/>rage and Magnanimity in his heart.</p>
+               <p>At this you will the less wonder, if you remember what you have read in <hi>Carda<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> (lib.</hi> 2. <hi>de Sap.</hi>) who there occa<g ref="char:EOLhyphen"/>sionally recounting many of the admi<g ref="char:EOLhyphen"/>rable effects of Love, says thus. <hi>Ex vilibus generoses efficere solet, ex timidis audaces, ex avaris splendides, exagresti<g ref="char:EOLhyphen"/>bus civiles, ex crudelibus mansuetos, ex impiis religiosos, ex sordidis nitidos &amp; cultos, ex duris misericordes, ex mutis eloquentes, &amp;c.</hi> If you contemn this authority, I hope you will not dispute the Example of <hi>Sir Walter Manny</hi> in <hi>Edward</hi> the <hi>thirds</hi> time, who being stuck full of Ladies favours, fought like a Dragon: nor that of <hi>Ferdinand</hi> King of <hi>Spain,</hi> who (as <hi>Castilio</hi> thinks) had never conquer'd <hi>Granado,</hi> had not Queen <hi>Isabella</hi> and her Ladies been present at the Siege, <hi>it cannot be expres<g ref="char:EOLhyphen"/>sed,</hi> sayes our Author, <hi>what courage the Spanish Knights derived from the raies of the Ladies eyes; a handful of amorous Spaniards overcoming a multude of
+<pb n="62" facs="tcp:204815:45"/> Moors.</hi> Every true Lover is wise, just, temperate and valiant, saith <hi>Agatho (lib.</hi> 3. <hi>de Aulico)</hi> who doubts not therefore, but if a Prince had an Army of such Lovers, he might soon con<g ref="char:EOLhyphen"/>quer the whole world; except he met with the like Army of Inamorato's to oppose it. <hi>Plato</hi> then had reason, when (5. <hi>de Legibus</hi>) he would have women follow the Camp, to be both Spectators and Encouragers of noble Actions: it being his opinion, <hi>(in convivio)</hi> that <hi>Mars</hi> himself borrowed most of his va<g ref="char:EOLhyphen"/>lour from his love of <hi>Venus.</hi>
+               </p>
+            </div>
+            <div n="5" type="section">
+               <head>SECT. V.</head>
+               <p>HAving beheld this <hi>Proteus,</hi> Love, in some of those various shapes, wherein it usually appears; you are (I presume) thereupon inclined to think it may be no less <hi>unconstant</hi> to its <hi>Object,</hi> than it seems to be to <hi>it self.</hi> To ob<g ref="char:EOLhyphen"/>viate this scandalous mistake, therefore, I find my self obliged in the next place to evince, that the Judgments of Love are, like those of Fate, <hi>unalterable</hi> and <hi>perpetual;</hi> that it is <hi>constant</hi> and <hi>immu<g ref="char:EOLhyphen"/>table.</hi> He who can cease to love whom he hath once loved, doe's but dream he
+<pb n="63" facs="tcp:204815:45"/> loved. For the conjunction of true Lo<g ref="char:EOLhyphen"/>vers hearts, like solemn Matrimony, admits of no divorce. When the Virgin <hi>Zone</hi> is untied, a knot is in the same in<g ref="char:EOLhyphen"/>stant knit, that can never be dissolved; sometimes, indeed, as the <hi>Gordian,</hi> it may be cut asunder. <hi>Death</hi> may be the <hi>Alexander</hi> to discind, but cannot untie it. Love ceases not, though what is loved hath ceas'd to be. When your Turtle hath molted all her beautiful feathers, and is grown old; you shall not cease to think her still the same, still amiable and youthful: and what of her charming features time hath impai<g ref="char:EOLhyphen"/>red, your affection will continually re<g ref="char:EOLhyphen"/>new; the pleasing Form now lost to your eye, shall be perpetually found fresh and lively in your mind. The fidelity of Remembrance shall countervail the cruelty of Age: which may by a natural Metamorphosis render your Wife a stranger to her former self, but hath not the more tyrannical power to alienate her from you. Nay, when <hi>Fate</hi> shall have torn her from your armes, even then shall you still retain and enjoy her in your imagination; you shall think her not dead, but only <hi>absent,</hi> and as often as you mix embraces with her
+<pb n="64" facs="tcp:204815:46"/> kind Ghost, you shall deny her to have <hi>perish'd.</hi> Love shall make you triumph over Mortality; and in the ardor of your spiritual fruition, you shall bid defiance to Destiny, crying out, <hi>Though you have seperated us,</hi> O Fatal Sisters! <hi>you have not divided us; yet we converse together, yet we are a pair, from others you have ta<g ref="char:EOLhyphen"/>ken away the Woman, from me not so much as her shadow. While she lived we used but one Soul; now but one Body. Her Spirit is received into my breast, and there remains fixt, as in its proper Aste<g ref="char:EOLhyphen"/>rism and Heaven.</hi>
+               </p>
+               <p>Thus Love seems to perform i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s course, as the Sun, in a Circle, alwaies returning to the po<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt whence it set forth; so ending in it self, as alwayes to begin. For, no man loves, who can e<g ref="char:EOLhyphen"/>ver be able to love either, less, or not at all. Of love there can be no end, because no satiety. Like Heaven and a contemplative Mind, it is perpe<g ref="char:EOLhyphen"/>tually in motion, never at rest: yet that labour doth not weary, but refresh. Thus the end of one benefit, is a degree to<g ref="char:EOLhyphen"/>ward another: and the Soul provoked by a double ardor, cherishes first the per<g ref="char:EOLhyphen"/>son, and then its own obligations; <hi>ad a<g ref="char:EOLhyphen"/>moris perennitatem sufficit amasse.</hi>
+               </p>
+               <pb n="65" facs="tcp:204815:46"/>
+               <p>Notwithstanding Love be thus im<g ref="char:EOLhyphen"/>mortal, as being the proper affection of an immortal Soul, and devoted to an eternal Object, Good: yet can I not de<g ref="char:EOLhyphen"/>ny, but it is a kind of <hi>Death.</hi> For, who is ignorant that Lovers die as often as they kiss, or bid adieu: exhaling their Souls upon each others lips. Like <hi>Apol<g ref="char:EOLhyphen"/>lo's</hi> Priests possessed with the spirit of <hi>Divination,</hi> they are transported out of themselves; their life is a perpetual <hi>Ex<g ref="char:EOLhyphen"/>tasie;</hi> they devest themselves of their own Souls, that they may be more hap<g ref="char:EOLhyphen"/>pily fill'd with others. I believe <hi>Py<g ref="char:EOLhyphen"/>thagoras</hi> his <hi>Metempsychosis</hi> or Transmi<g ref="char:EOLhyphen"/>gration of his Soul, when he loved, not when he philosophiz'd. At sight of a fair and well built house, our souls, like delicate and proud Ladies, grow weary of ther own homely dwellings, and are unquiet until removed thither: because they were not born, they affect to live, yea to be born again therein. Longing for the Elyzium of their Mi<g ref="char:EOLhyphen"/>stress breast, the only Paradise for Lo<g ref="char:EOLhyphen"/>vers Ghosts, they break the prison of their own, and anticipate the delivery of Death, and fly thither, as to the place of their eternal mansion. Who<g ref="char:EOLhyphen"/>ever thou art, that darest to doubt of
+<pb n="66" facs="tcp:204815:47"/> these excursions of amorous Souls; let me advise thee attentively to observe, how the Soul of a Lover almost visibly flies to that part of the body, which approches neerest to his <hi>Panthea.</hi> If they joyn hands, you may perceive their souls to be <hi>palpably</hi> distributed in<g ref="char:EOLhyphen"/>to their fingers, mutually to take hold, and entwine each with other. If they stand side by side, their bowels yern, their hearts leap for joy, their spirits flow in crowds into their breasts, and raising strong palpitations, salute each other, as Clowns use to do, with <hi>thumps;</hi> as if they strove to dissolve the liga<g ref="char:EOLhyphen"/>ments of life and intermix embraces. What kind of <hi>Magique</hi> is that, by which the blood is made to overflow the cheeks with crimson waves, at the pre<g ref="char:EOLhyphen"/>sence of a dear friend; springing up out of the Arteries of the wounded Heart, as an index of its sufferings, no otherwise than the blood of a murdered man is said to flow forth afresh, to betray the Ho<g ref="char:EOLhyphen"/>micide? only with this difference, that the blood, in the case of <hi>Murder,</hi> flows, I know not by what instinct, for <hi>re<g ref="char:EOLhyphen"/>venge:</hi> but in a <hi>Lovers</hi> blushes, for <hi>cure</hi> and <hi>remedy</hi> of his harm. See, how gree<g ref="char:EOLhyphen"/>dily his soul catcheth the sounds of her
+<pb n="67" facs="tcp:204815:47"/> voice; and retired wholly into his ears, stands there watching every accent, nay is converted into the sense of Hearing, or rather into the very sounds it re<g ref="char:EOLhyphen"/>ceives. In exchanging words, they ex<g ref="char:EOLhyphen"/>change spirits: and immigrate into the wishes they utter. See, how their wan<g ref="char:EOLhyphen"/>dring souls in a continual efflux sally forth at their encontring eyes; and con<g ref="char:EOLhyphen"/>suming themselves in greedy looks, leave their bodies faint and liveless, ma<g ref="char:EOLhyphen"/>ny times falling into swoons and <hi>Sync<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>pes.</hi> To Lovers it is the same thing, to <hi>speak,</hi> and to <hi>expire;</hi> the same, to <hi>see,</hi> and to <hi>extramit themselves</hi> by the eye; to gaze, and to pass into the object. In them the <hi>Platonic</hi> opinion, that sight is performed by <hi>Extramission</hi> of rays holds true. Thus the <hi>whole</hi> Man hast<g ref="char:EOLhyphen"/>ning to get forth, crowds one while into the Ear, another into the Eye, sometimes into the Lips: <hi>suavia dans Agathoni, animam ipse in labra tenebam;</hi> was <hi>Plato</hi>'s confession of himself; li<g ref="char:EOLhyphen"/>ving only in that part, wherein he at pre<g ref="char:EOLhyphen"/>sent enjoys his Fellow, his other and better <hi>half.</hi> Thus Love <hi>epitomizeth</hi> Human nature; compelling Men to breath and live more <hi>contractedly;</hi> and (like some imperfect Animals) to be
+<pb n="68" facs="tcp:204815:48"/> content with <hi>one</hi> sense alone. But thus to reduce him from a necessity of many Organs or Instruments of life, sense and motion, to a capacity of existing more delightfully by one single Organ; is not to maim Man, but render him more <hi>perfect</hi> and <hi>divine.</hi> We will therefore, if you please, conclude this <hi>Paragraph</hi> with a pertinent Stanza of that incom<g ref="char:EOLhyphen"/>parable Critique in Love, old <hi>Chaucer:</hi> who in most lively and never-vading colours painting the surprize and asto<g ref="char:EOLhyphen"/>nishmen of <hi>Troilus,</hi> (till then a Wo<g ref="char:EOLhyphen"/>man-hater) at first sight of the fair <hi>Cre<g ref="char:EOLhyphen"/>seide,</hi> in her mourning habit, sparkling like a Diamond set in Jet; saith thus.</p>
+               <q>
+                  <l>Lo, he that lete him selven so conning,</l>
+                  <l>And scorned hem that loves paines drien,</l>
+                  <l>Was still unware that love had his dwelling</l>
+                  <l>Within the subtel streams of her eyen;</l>
+                  <l>That sodainly him thought he felt dien,</l>
+                  <l>Right with her loke, the spirit in his herte.</l>
+                  <l>Blessed be love, that thus can folke converte.</l>
+               </q>
+            </div>
+            <div n="6" type="section">
+               <pb n="69" facs="tcp:204815:48"/>
+               <head>SECT. VI.</head>
+               <p>IN such spiritual efforts and sallies, the <hi>Body</hi> indeed suffers a manifest, though a grateful <hi>detriment;</hi> but (what's a won<g ref="char:EOLhyphen"/>der even for wise men) the <hi>soul</hi> acquires <hi>Augmentation.</hi> For, as if she were also definable by <hi>Extension,</hi> being by a cer<g ref="char:EOLhyphen"/>tain <hi>expansion</hi> more diffused than before, she that was originally the Guest of one breast, become's thenceforth the Go<g ref="char:EOLhyphen"/>verness of two. Confused betwixt two bodies, she scarcely knows for which she was first formed: but as it were sus<g ref="char:EOLhyphen"/>pended betwixt both, she perfectly in<g ref="char:EOLhyphen"/>forms neither. By one Law of Nature she is confined to one body; by ano<g ref="char:EOLhyphen"/>ther Law of the same Nature, <hi>Love,</hi> she is carried forth to animate and pos<g ref="char:EOLhyphen"/>sess another, which she strives to make equally her own: so that in this case you are obliged to acknowledge both a <hi>Di<g ref="char:EOLhyphen"/>minution</hi> and an <hi>Increment</hi> of her So<g ref="char:EOLhyphen"/>veraignty. Every <hi>Individual</hi> in love, is thenceforth a <hi>Number;</hi> carrying al<g ref="char:EOLhyphen"/>ways with him, as <hi>Antipheron</hi> did, <hi>an<g ref="char:EOLhyphen"/>other Himself:</hi> if at least he may pro<g ref="char:EOLhyphen"/>perly be said to be a Number, whom one computes, whom one distinguishes,
+<pb n="70" facs="tcp:204815:49"/> whom the word <hi>Homo</hi> alone expresses; an <hi>Hermaphrodite</hi> and yet no <hi>Monster.</hi> By a fruitful error, to men in Love, as well as to men in Drink, all objects ap<g ref="char:EOLhyphen"/>pear <hi>double:</hi> yet no otherwise than the eyes themselves are double, which have one and the same motion, one and the same sight. Here you see a kind of <hi>pene<g ref="char:EOLhyphen"/>tration</hi> of <hi>Dimensions,</hi> two persons so closely embracing, as to fill up the same space, as to become one, as to destroy their embraces; for, embraces imply a difference. While, like <hi>Ovids</hi> Herma<g ref="char:EOLhyphen"/>phrodite, <hi>Salmacis,</hi> the person court<g ref="char:EOLhyphen"/>ing, and the person courted are one and the same; he knows not whether he love, or is beloved more truely; nor doth he enjoy, but is converted into his wish. Ah, <hi>Cupid,</hi> thy very bounty is mockery; thy favour, like that of Gran<g ref="char:EOLhyphen"/>dees in Court, hypocritical: while thou hidest within my breast, what I require to be in my arms. Thou art too propitious in making us one: rather di<g ref="char:EOLhyphen"/>vide us, that we may feel our selves to be what we would be, different in sex, one in will and desire. <hi>Obstat cupienti, nimium frui.</hi> To have her made the same with my self, whom I covet only as a Partner of my joys, is to prevent
+<pb n="71" facs="tcp:204815:49"/> them. This excess of kindness, this assimilation of another to my self, makes me think, I do not embrace my Friend, but a shadow; which always treads in my footsteps, and imitates all my mo<g ref="char:EOLhyphen"/>tions. Stand farther from me, O my dearest, who art nearer to me than I am to my self; that I may enjoy that plea<g ref="char:EOLhyphen"/>sure, which consisteth in the knowledge of a Distinction.</p>
+               <p>But, alas! I forget my self, and wish a Contradiction. The same power that makes one of two, makes also two of one. The Arithmetick of Love is per<g ref="char:EOLhyphen"/>formed aswel by <hi>substraction,</hi> as by <hi>Mul<g ref="char:EOLhyphen"/>tiplication:</hi> nor do we think that sub<g ref="char:EOLhyphen"/>straction a loss, but a <hi>Compendium;</hi> un<g ref="char:EOLhyphen"/>less it be more advantage to have our strengths <hi>collected,</hi> than <hi>extended.</hi> E<g ref="char:EOLhyphen"/>very thing (you know) is so much the more <hi>perfect,</hi> by how much the more <hi>simple.</hi> To be comprehended within no space or number, is the prerogative of the <hi>Deity:</hi> and what is <hi>Best</hi> and <hi>Highest,</hi> can be but <hi>one.</hi> Love, there<g ref="char:EOLhyphen"/>fore, as it hath this Divine perfection of <hi>Unity;</hi> so hath it likewise that other of <hi>Self-communication.</hi> For, what is per<g ref="char:EOLhyphen"/>fect, is uncapable of addition or encrease otherwise than by Diffusion or Distri<g ref="char:EOLhyphen"/>bution
+<pb n="72" facs="tcp:204815:50"/> of it self. The only Usury of Love, is to make others rich. This li<g ref="char:EOLhyphen"/>berality of conferring ones self upon an<g ref="char:EOLhyphen"/>other, is the only good Mankind can justly call his own, and the first Dona<g ref="char:EOLhyphen"/>tive of Heaven. Other things are the gifts of Fortune, which we can no more give, than the light of the Sun, of the common aer; nay, which we have scarcely right enough to appropriate to our selves. Whoever loves, then, comes neerer to the <hi>Divine Nature;</hi> as placing his chief delight in doing good, in making another happy. Hence it is, that as Men of youthful and strong Bo<g ref="char:EOLhyphen"/>dies are naturally desirous to beget issue of their Loins: so those of great and vigorous abilities of Mind feel in them<g ref="char:EOLhyphen"/>selves a certain noble ardor, that incites them to beget children of their <hi>under<g ref="char:EOLhyphen"/>standing,</hi> a praegnancy of the <hi>Brain,</hi> and most chaste Lust of propagating <hi>virtue;</hi> which is commonly named <hi>Platonique Love.</hi> Wherefore, Love is, in this re<g ref="char:EOLhyphen"/>spect at least, so far from proceed<g ref="char:EOLhyphen"/>ing from <hi>want</hi> (as <hi>Mr. Hobs</hi> derives it) that on the contrary it is the effect of <hi>wealth</hi> and <hi>abundance.</hi> Nor ought we longer to complain of Nature, as close<g ref="char:EOLhyphen"/>handed and niggardly in her Gifts to
+<pb n="73" facs="tcp:204815:50"/> Mankind, since she hath been so indul<g ref="char:EOLhyphen"/>gent and bountiful in instituting this ingenious <hi>commerce,</hi> whereby every one both communicates himself, and receives another (for, by Love we do not sell, but <hi>exchange</hi> ourselves) yea transferrs into his own treasury whatever is excel<g ref="char:EOLhyphen"/>lent and divine in another; being a<g ref="char:EOLhyphen"/>dopted heir to anothers riches, he be<g ref="char:EOLhyphen"/>comes more accomplished by endow<g ref="char:EOLhyphen"/>ment, and in another supplies his own defects. This <hi>Munificence</hi> of <hi>Love</hi> in communicating whatever it thinks good and delectable, is evident even in the de<g ref="char:EOLhyphen"/>light of <hi>sensual Fruition,</hi> which being a pleasure consisting in a conjunction not only of two Persons of different sexes, but also of two different Appetites in each Person; <hi>viz.</hi> to <hi>please,</hi> and to be <hi>pleased;</hi> and the former of these two Ap<g ref="char:EOLhyphen"/>petites being an Affection of the Mind, consisting in the Imagination of power to please: it necessarily follows, that each party becomes so much the more joy'd or pleased in himself, by how much the more able he finds him to please or cause joy in the other. So that they rival each other in the <hi>Communi<g ref="char:EOLhyphen"/>cation</hi> of delight. The same may be said also of <hi>Platonique</hi> Love, or generous
+<pb n="74" facs="tcp:204815:51"/>
+                  <hi>Charity;</hi> the delight whereof consisting likewise in the exercise of ones <hi>power</hi> or ability to enrich the understanding of an<g ref="char:EOLhyphen"/>other, and impraegnate his Mind with the seeds of Virtue: the <hi>Socrates</hi> must be so much the more delighted in his own Mind, by how much the more he finds the <hi>Alcibiades</hi> better'd by his instructi<g ref="char:EOLhyphen"/>ons. Here's all the difference, the delight of <hi>sensual</hi> Love depending partly upon the powers of the Body, is therefore fu<g ref="char:EOLhyphen"/>rious, short of duration, and subject to decay: the <hi>Platonique</hi> depending solely upon the Mind, whose powers are per<g ref="char:EOLhyphen"/>petual, is therefore calme, of one equal tenour, and everlasting.</p>
+               <p>Here finding my boat unexpectedly brought upon the blessed coast of the <hi>New Atlantis,</hi> or terrestrial Paradice, <hi>FRIENDSHIP,</hi> where the aer is perpe<g ref="char:EOLhyphen"/>tually clear and s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rene, the sea pacific, and the land spontaneously fertil; a place wherein nothing is found but <hi>Consolations,</hi> whose King, <hi>Altabin,</hi> is a wise man; whose peaceful inhabitants are rich in their contempt of all pecuniary Commerce within themselves; where the <hi>Tirzan,</hi> of true <hi>Father of the Vine, Love,</hi> composes all differences, and ex<g ref="char:EOLhyphen"/>tinguishes all animosities; and where
+<pb n="75" facs="tcp:204815:51"/> the Sons and Daughters of <hi>Bensalem</hi> live in perfect amity and concord: be<g ref="char:EOLhyphen"/>ing come, I say, to this happy Port, give me leave my <hi>dear Friend,</hi> here to cast anchor, and end my voyage. I had designed to sail farther, to discover what that wonderful <hi>something</hi> in <hi>Love</hi> is, which we observe to be more pow<g ref="char:EOLhyphen"/>erful than all Calamites, more august than Honour, more splendid than Ri<g ref="char:EOLhyphen"/>ches, more delightful than Pleasures, more sovereign than Empire, more ve<g ref="char:EOLhyphen"/>nerable than Autority, more charming than Beauty, more illustrious than Wis<g ref="char:EOLhyphen"/>dom; that for which we contemn and trample upon all those glorious things, so much either feared, or adored by the world; yea, for which alone we do not contemn, but esteem and worship them: that, which so fully pleaseth alone, that even the vilest things please for the sake thereof; which enjoye's this privilege of <hi>Majesty,</hi> that nothing can turn to its dishonour; which is above the reach of Infamy, and can honest even vice it self. But, perceiving the Needle of my Co<g ref="char:EOLhyphen"/>gitations, no less than that of my Af<g ref="char:EOLhyphen"/>fections, to fix it self on that point of the Compass, wherein you and I seek for Happiness in this life, our constant
+<pb n="76" facs="tcp:204815:52"/>
+                  <hi>Friendship:</hi> I confess, my Mind is so intirely taken up with the ravishing Contemplation thereof, that I cannot at present divert it to prosecute what I intended to speak, concerning seve<g ref="char:EOLhyphen"/>ral other admirable and stupendious ef<g ref="char:EOLhyphen"/>fects of this <hi>Heroick Passion;</hi> whereof I have here drawn no perfect Picture, but only a rude <hi>Scetch,</hi> or rather a few gross and confused <hi>lines,</hi> by way of supple<g ref="char:EOLhyphen"/>ment to Your more artificial Represen<g ref="char:EOLhyphen"/>tation of it, in your <hi>Ephestan Matron.</hi> Let us, therefore, now (if you please) goe ashoar, and repose our selves in the newly mention'd Island of <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ensalem,</hi> (where though we be not advanced to the honour of being Fellows or Bre<g ref="char:EOLhyphen"/>thren of <hi>Salomons House;</hi> yet we may be well received into the <hi>House of stran<g ref="char:EOLhyphen"/>gers</hi>) reserving what remains untouch<g ref="char:EOLhyphen"/>ed of our Argument for another diver<g ref="char:EOLhyphen"/>tisement; and in the mean time, with our dearly beloved <hi>Don Geffrey,</hi>
+                  <q>
+                     <lg>
+                        <l>Beseeching every Lady bright of hewe,</l>
+                        <l>And every gentil woman, what she be,</l>
+                        <l>Albeit that our Matrons were untrue,</l>
+                        <l>That for that gilte ye be not wroth with me.</l>
+                        <l>Ye may in other Bokes their gilte se.</l>
+                        <l>And gladde<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> I would write, if that ye lesse;</l>
+                        <l>
+                           <hi>Penelopes</hi> truth, and faith of good Alceste.</l>
+                     </lg>
+                     <lg>
+                        <pb n="77" facs="tcp:204815:52"/>
+                        <l>Ne saie I nat this all only for these men,</l>
+                        <l>But most for women that betraied be</l>
+                        <l>Through fals folke (God yeve hem sorowe, amen)</l>
+                        <l>That with great witte and subtiltie</l>
+                        <l>Betraien you; and this meveth me</l>
+                        <l>To speke, and in effect you all I praie,</l>
+                        <l>Bethe ware of men, and herkeneth what I say.</l>
+                     </lg>
+                     <lg>
+                        <l>But God forbid, but a woman can</l>
+                        <l>Ben as true and loving as a man.</l>
+                        <l>For it is deintie to us men to finde.</l>
+                        <l>A man, that can in love be trewe and kind.</l>
+                     </lg>
+                     <lg>
+                        <l>Thus endeth now my tale, and God us sende</l>
+                        <l>Taling enough unto our lives ende. ¶</l>
+                     </lg>
+                  </q>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:204815:53"/>
+            <head>Some Books printed for <hi>Henry Herringman</hi> at the <hi>Anchor</hi> in the Lower walk of the <hi>New-Exchange.</hi>
+            </head>
+            <list>
+               <head>Folio's</head>
+               <item>Dr. <hi>William Howel</hi>'s History of the World.</item>
+               <item>
+                  <hi>Pietro Della-Vals</hi> Travels.</item>
+               <item>
+                  <hi>Astrea,</hi> a Romance; 1, 2, and 3 volume.</item>
+               <item>
+                  <hi>Clelia,</hi> a Romance; 5th volume.</item>
+               <item>
+                  <hi>Dom John de Castro.</hi>
+               </item>
+               <item>
+                  <hi>Grand Scipio</hi> a Romance.</item>
+               <item>
+                  <hi>James Howels</hi> History of <hi>Venice.</hi>
+               </item>
+               <item>Bishop <hi>Andrews</hi> second volume of Ser<g ref="char:EOLhyphen"/>mons.</item>
+               <item>Sir <hi>Robert Howard</hi>'s four Plays.</item>
+               <item>
+                  <hi>Wall-Flower,</hi> a Romance.</item>
+               <item>Mrs. <hi>Phillips</hi> Poems.</item>
+               <item>Mr. <hi>Abraham Cowley</hi>'s Works.</item>
+               <item>
+                  <hi>Ben. Johnson</hi>'s second volume.</item>
+            </list>
+            <list>
+               <head>Quarto's.</head>
+               <item>
+                  <hi>Charleton</hi>'s Natural History.</item>
+               <item>His Immortality of the soul.</item>
+               <pb facs="tcp:204815:53"/>
+               <item>His History of <hi>Stonehenge.</hi>
+               </item>
+               <item>His Character of the King.</item>
+               <item>
+                  <hi>Boyle</hi>'s Essaies in <hi>Latine</hi> and <hi>English.</hi>
+               </item>
+               <item>
+                  <hi>Parthenissa,</hi> a Romance, in Five Tomes.</item>
+               <item>
+                  <hi>Blunt</hi>'s Art of making Devices.</item>
+               <item>A Discourse of Schools and School<g ref="char:EOLhyphen"/>masters.</item>
+               <item>
+                  <hi>Fisher</hi>'s <hi>Ironiodia Gratulatoria.</hi>
+               </item>
+               <item>Civil Right of Tithes.</item>
+            </list>
+            <list>
+               <head>Octavo's large.</head>
+               <item>
+                  <hi>Boyl</hi>'s style of Scripture.
+<list>
+                     <item>His Seraphick Love.</item>
+                     <item>His History of Colours.</item>
+                     <item>His Reflections.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Bergerac</hi>'s Letters.</item>
+               <item>Humane Industry.</item>
+               <item>Humane Soul.</item>
+               <item>Sir <hi>Robert Howard</hi>'s Poems.</item>
+               <item>Sir <hi>Thomas Higgons</hi> Poems.</item>
+               <item>Buscon, or the Witty-Spaniard.</item>
+               <item>Rats Rym'd to death.</item>
+               <item>
+                  <hi>Yelverton</hi>'s Christian Religion.</item>
+               <item>Characters on the Passions</item>
+               <item>All <hi>Horace</hi> in <hi>English.</hi>
+               </item>
+               <item>
+                  <hi>Carter</hi>'s Heraldry.</item>
+               <item>Grand difference between <hi>France</hi> and <hi>Spain.</hi>
+               </item>
+               <pb facs="tcp:204815:54"/>
+               <item>
+                  <hi>Sucklings</hi> Poems and Remains.</item>
+               <item>
+                  <hi>Pastor fido; English.</hi>
+               </item>
+               <item>Sir <hi>Toby Mathews</hi> Letters.</item>
+               <item>Court of <hi>Rome.</hi>
+               </item>
+               <item>
+                  <hi>De-Laines</hi> French Grammer</item>
+               <item>
+                  <hi>Evelin</hi> of Imployment</item>
+               <item>
+                  <hi>Dryden's Annus Mirabilis.</hi>
+               </item>
+               <item>Quevedo's Visions.</item>
+               <item>
+                  <hi>Wallers</hi> Poems.</item>
+               <item>
+                  <hi>Denhams</hi> Poems.</item>
+               <item>
+                  <hi>Donns</hi> Poems.</item>
+               <item>
+                  <hi>Crashaws</hi> Poems.</item>
+               <item>Judgements of God against Atheisme and Prophaneness.</item>
+               <item>
+                  <hi>Fleckno</hi>'s Loves Dominion.</item>
+               <item>The <hi>Ephesian</hi> Matron.</item>
+               <item>
+                  <hi>Cimmerian</hi> Matron, to which is added the Misteries and Miracles of Love.</item>
+            </list>
+            <list>
+               <head>Octavo's small.</head>
+               <item>Bishop <hi>King</hi>'s Poems.</item>
+               <item>Game at <hi>Chess</hi>-Play.</item>
+               <item>
+                  <hi>Davenant</hi>'s Declamations</item>
+               <item>
+                  <hi>Flecknoes Diarum</hi>
+               </item>
+               <item>Honest Ghost.</item>
+               <item>
+                  <hi>Horace,</hi> his <hi>Odes</hi> and <hi>Epodes.</hi>
+               </item>
+               <item>
+                  <hi>Kellison</hi> on the 51 <hi>Psalm.</hi>
+               </item>
+               <pb facs="tcp:204815:54"/>
+               <item>Method of Reason; <hi>des Cartes.</hi>
+               </item>
+               <item>
+                  <hi>Musarum Delitiae.</hi>
+               </item>
+               <item>Pantagruel's Prognostication.</item>
+               <item>Heroick Education.</item>
+               <item>Lo. <hi>Castlemains</hi> Account of <hi>Candiae.</hi>
+               </item>
+               <item>
+                  <hi>Carew's</hi> Poems.</item>
+               <item>Sir <hi>Will. Davenant's Madagascar.</hi>
+               </item>
+               <item>Sir. <hi>Will. Davenants Gondibert.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Large Twelves.</head>
+               <item>
+                  <hi>Rawleighs</hi> Ghost.</item>
+               <item>
+                  <hi>Gregory Nazianzen's</hi> Orations in Eng<g ref="char:EOLhyphen"/>lish.</item>
+               <item>Bishop <hi>Kings</hi> Psalms.</item>
+               <item>
+                  <hi>Mazarines</hi> and <hi>Oliver Cromwels</hi> Design to surprise <hi>Ostend.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Small Twelves.</head>
+               <item>
+                  <hi>Amourus Fantasme,</hi> a Play.</item>
+               <item>
+                  <hi>Enchanted Lovers,</hi> a Play.</item>
+               <item>
+                  <hi>Balsacs</hi> Converson of the Roman.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>PLAYES,</hi> Folio and Quarto.</head>
+               <item>Adventures of Five hours.</item>
+               <item>
+                  <hi>Mustapha.</hi>
+               </item>
+               <pb facs="tcp:204815:55"/>
+               <item>
+                  <hi>Henry</hi> the Fifth.</item>
+               <item>Just Italian.</item>
+               <item>Unfortunate Lovers.</item>
+               <item>Love and Honour.</item>
+               <item>
+                  <hi>Albovine</hi> King of the <hi>Lombards.</hi>
+               </item>
+               <item>Cruel Brothers.</item>
+               <item>Cruelty of the <hi>Spaniards</hi> in <hi>Peru.</hi>
+               </item>
+               <item>History of Sir <hi>Francis Drake.</hi>
+               </item>
+               <item>Siege of <hi>Rhodes,</hi> first and second Parts.</item>
+               <item>Nuptial of <hi>Felius</hi> and <hi>Thetis.</hi>
+               </item>
+               <item>The Widow, a Comedy.</item>
+               <item>Love in a Tub.</item>
+               <item>Rival Ladies, a Comedy.</item>
+               <item>
+                  <hi>Indian</hi> Emperour.</item>
+               <item>
+                  <hi>Amazone</hi> Queen.</item>
+               <item>
+                  <hi>Pompey</hi> the Great.</item>
+               <item>Maiden Queen.</item>
+               <item>The Usurper, a Tragedy.</item>
+               <item>
+                  <hi>Cutter</hi> of <hi>Colemanstreet.</hi>
+               </item>
+               <item>The Carnival, a Comedy.</item>
+               <item>Mayor of <hi>Queenborough.</hi>
+               </item>
+               <item>
+                  <hi>Tarugo</hi>'s Wiles, or the Coffee-house.</item>
+               <item>Duke of <hi>Lerma.</hi>
+               </item>
+               <item>Villain, a Tragedy.</item>
+               <item>
+                  <hi>Dryden</hi>'s Essay of Poesie.</item>
+               <item>Duel of the Staggs.</item>
+            </list>
+            <pb facs="tcp:204815:55"/>
+         </div>
+      </back>
+   </text>
+</TEI>
